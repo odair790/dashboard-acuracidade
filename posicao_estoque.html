@@ -65,7 +65,7 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
     <h1>Posição de Estoque</h1>
     <p>Saldo consolidado por filial · GYP / YBERA</p>
   </div>
-  <div class="header-ts">Última atualização<strong>24/07/2026 08:35</strong></div>
+  <div class="header-ts">Última atualização<strong>24/07/2026 10:08</strong></div>
 </header>
 <div class="app-shell">
 <aside class="sidebar">
@@ -80,13 +80,13 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
     
     <div class="card filial-card">
       <div class="filial-card-titulo">YBERAGROUP® FILIAL 1</div>
-      <div class="filial-card-valor">R$ 7.966.629,60</div>
+      <div class="filial-card-valor">R$ 8.887.380,75</div>
       <div class="filial-card-legenda">Posição de Estoque · ERP</div>
     </div>
     
     <div class="card filial-card">
       <div class="filial-card-titulo">YBERAGROUP® FILIAL 3</div>
-      <div class="filial-card-valor">R$ 16.624.309,00</div>
+      <div class="filial-card-valor">R$ 12.627.887,73</div>
       <div class="filial-card-legenda">Posição de Estoque · ERP</div>
     </div>
   </div>
@@ -111,6 +111,11 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
           <tr><th>Dia</th><th class="num">Valor ERP</th><th class="num">Última atualização</th></tr>
         </thead>
         <tbody>
+        <tr>
+          <td>Dia 24</td>
+          <td class="num">R$ 8.887.380,75</td>
+          <td class="num">10:08</td>
+        </tr>
         <tr>
           <td>Dia 23</td>
           <td class="num">R$ 7.966.629,60</td>
@@ -160,6 +165,11 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
         </thead>
         <tbody>
         <tr>
+          <td>Dia 24</td>
+          <td class="num">R$ 12.627.887,73</td>
+          <td class="num">10:08</td>
+        </tr>
+        <tr>
           <td>Dia 23</td>
           <td class="num">R$ 16.624.309,00</td>
           <td class="num">08:35</td>
@@ -203,7 +213,7 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
 </div>
 <script>
 (function(){
-  const HIST = {"f1": {"13": {"valor": 3006473.65, "hora": "14:28"}, "15": {"valor": 2995923.55, "hora": "10:10"}, "16": {"valor": 2982974.55, "hora": "08:00"}, "20": {"valor": 2093934.73, "hora": "08:00"}, "21": {"valor": 2089425.21, "hora": "08:00"}, "22": {"valor": 2014444.56, "hora": "10:18"}, "23": {"valor": 7966629.6, "hora": "08:35"}}, "f3": {"13": {"valor": 3427015.37, "hora": "14:28"}, "15": {"valor": 15367784.56, "hora": "10:10"}, "16": {"valor": 14301471.24, "hora": "08:00"}, "20": {"valor": 14034710.16, "hora": "08:00"}, "21": {"valor": 13426313.31, "hora": "08:00"}, "22": {"valor": 13448016.9, "hora": "10:18"}, "23": {"valor": 16624309.0, "hora": "08:35"}}};
+  const HIST = {"f1": {"13": {"valor": 3006473.65, "hora": "14:28"}, "15": {"valor": 2995923.55, "hora": "10:10"}, "16": {"valor": 2982974.55, "hora": "08:00"}, "20": {"valor": 2093934.73, "hora": "08:00"}, "21": {"valor": 2089425.21, "hora": "08:00"}, "22": {"valor": 2014444.56, "hora": "10:18"}, "23": {"valor": 7966629.6, "hora": "08:35"}, "24": {"valor": 8887380.75, "hora": "10:08"}}, "f3": {"13": {"valor": 3427015.37, "hora": "14:28"}, "15": {"valor": 15367784.56, "hora": "10:10"}, "16": {"valor": 14301471.24, "hora": "08:00"}, "20": {"valor": 14034710.16, "hora": "08:00"}, "21": {"valor": 13426313.31, "hora": "08:00"}, "22": {"valor": 13448016.9, "hora": "10:18"}, "23": {"valor": 16624309.0, "hora": "08:35"}, "24": {"valor": 12627887.73, "hora": "10:08"}}};
   const DIAS = Array.from({length:31}, (_, i) => String(i + 1).padStart(2, '0'));
 
   function buildSerie(raw) {
