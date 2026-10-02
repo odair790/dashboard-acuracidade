@@ -65,7 +65,7 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
     <h1>Posição de Estoque</h1>
     <p>Saldo consolidado por filial · GYP / YBERA</p>
   </div>
-  <div class="header-ts">Última atualização<strong>01/10/2026 09:00</strong></div>
+  <div class="header-ts">Última atualização<strong>02/10/2026 09:00</strong></div>
 </header>
 <div class="app-shell">
 <aside class="sidebar">
@@ -80,13 +80,13 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
     
     <div class="card filial-card">
       <div class="filial-card-titulo">YBERAGROUP® FILIAL 1</div>
-      <div class="filial-card-valor">R$ 8.519.484,92</div>
+      <div class="filial-card-valor">R$ 6.260.339,98</div>
       <div class="filial-card-legenda">Posição de Estoque · ERP</div>
     </div>
     
     <div class="card filial-card">
       <div class="filial-card-titulo">YBERAGROUP® FILIAL 3</div>
-      <div class="filial-card-valor">R$ 3.731.863,01</div>
+      <div class="filial-card-valor">R$ 3.690.672,48</div>
       <div class="filial-card-legenda">Posição de Estoque · ERP</div>
     </div>
   </div>
@@ -112,6 +112,11 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
         </thead>
         <tbody>
         <tr>
+          <td>Dia 02</td>
+          <td class="num">R$ 6.260.339,98</td>
+          <td class="num">09:00</td>
+        </tr>
+        <tr>
           <td>Dia 01</td>
           <td class="num">R$ 8.519.484,92</td>
           <td class="num">09:00</td>
@@ -130,6 +135,11 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
         </thead>
         <tbody>
         <tr>
+          <td>Dia 02</td>
+          <td class="num">R$ 3.690.672,48</td>
+          <td class="num">09:00</td>
+        </tr>
+        <tr>
           <td>Dia 01</td>
           <td class="num">R$ 3.731.863,01</td>
           <td class="num">09:00</td>
@@ -143,7 +153,7 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
 </div>
 <script>
 (function(){
-  const HIST = {"f1": {"1": {"valor": 8519484.92, "hora": "09:00"}}, "f3": {"1": {"valor": 3731863.01, "hora": "09:00"}}};
+  const HIST = {"f1": {"1": {"valor": 8519484.92, "hora": "09:00"}, "2": {"valor": 6260339.98, "hora": "09:00"}}, "f3": {"1": {"valor": 3731863.01, "hora": "09:00"}, "2": {"valor": 3690672.48, "hora": "09:00"}}};
   const DIAS = Array.from({length:31}, (_, i) => String(i + 1).padStart(2, '0'));
 
   function buildSerie(raw) {
