@@ -65,7 +65,7 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
     <h1>Posição de Estoque</h1>
     <p>Saldo consolidado por filial · GYP / YBERA</p>
   </div>
-  <div class="header-ts">Última atualização<strong>03/10/2026 12:49</strong></div>
+  <div class="header-ts">Última atualização<strong>04/10/2026 20:44</strong></div>
 </header>
 <div class="app-shell">
 <aside class="sidebar">
@@ -112,6 +112,11 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
         </thead>
         <tbody>
         <tr>
+          <td>Dia 04</td>
+          <td class="num">R$ 6.260.339,98</td>
+          <td class="num">20:44</td>
+        </tr>
+        <tr>
           <td>Dia 03</td>
           <td class="num">R$ 6.260.339,98</td>
           <td class="num">12:49</td>
@@ -140,6 +145,11 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
         </thead>
         <tbody>
         <tr>
+          <td>Dia 04</td>
+          <td class="num">R$ 3.690.672,48</td>
+          <td class="num">20:44</td>
+        </tr>
+        <tr>
           <td>Dia 03</td>
           <td class="num">R$ 3.690.672,48</td>
           <td class="num">12:49</td>
@@ -163,7 +173,7 @@ h3 { font-size:11px; font-weight:700; color:var(--muted); text-transform:upperca
 </div>
 <script>
 (function(){
-  const HIST = {"f1": {"1": {"valor": 8519484.92, "hora": "09:00"}, "2": {"valor": 6260339.98, "hora": "09:00"}, "3": {"valor": 6260339.98, "hora": "12:49"}}, "f3": {"1": {"valor": 3731863.01, "hora": "09:00"}, "2": {"valor": 3690672.48, "hora": "09:00"}, "3": {"valor": 3690672.48, "hora": "12:49"}}};
+  const HIST = {"f1": {"1": {"valor": 8519484.92, "hora": "09:00"}, "2": {"valor": 6260339.98, "hora": "09:00"}, "3": {"valor": 6260339.98, "hora": "12:49"}, "4": {"valor": 6260339.98, "hora": "20:44"}}, "f3": {"1": {"valor": 3731863.01, "hora": "09:00"}, "2": {"valor": 3690672.48, "hora": "09:00"}, "3": {"valor": 3690672.48, "hora": "12:49"}, "4": {"valor": 3690672.48, "hora": "20:44"}}};
   const DIAS = Array.from({length:31}, (_, i) => String(i + 1).padStart(2, '0'));
 
   function buildSerie(raw) {
