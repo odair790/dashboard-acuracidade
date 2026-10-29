@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-28T10:28:00-03:00",
+  "geradoEm": "2026-10-29T08:16:44-03:00",
   "fonte": "Planilha Google 'Diarização 2026' · aba Outubro",
   "mes": "Outubro 2026",
   "dias": [
@@ -8,8 +8,8 @@
       "dia": "qui",
       "metaFat": 698743.39138,
       "metaPed": 3645,
-      "rlzFat": 969318.1599999999,
-      "rlzPed": 4015,
+      "rlzFat": 969003.1399999999,
+      "rlzPed": 4014,
       "atg": 138.7,
       "campanhas": [
         "Inicio Kit Off-Line / Oferta site 15% OFF",
@@ -20,7 +20,7 @@
         {
           "nome": "Ybera.com",
           "rlzPed": 1871,
-          "rlzFat": 636838.75
+          "rlzFat": 636721.63
         },
         {
           "nome": "TikTok",
@@ -49,8 +49,8 @@
         },
         {
           "nome": "Loja Interna",
-          "rlzPed": 1023,
-          "rlzFat": 161611.84
+          "rlzPed": 1022,
+          "rlzFat": 161413.94
         }
       ]
     },
@@ -59,9 +59,9 @@
       "dia": "sex",
       "metaFat": 453342.01483,
       "metaPed": 2540,
-      "rlzFat": 566508.84,
-      "rlzPed": 2566,
-      "atg": 125.0,
+      "rlzFat": 566130.91,
+      "rlzPed": 2564,
+      "atg": 124.9,
       "campanhas": [
         "nada / Kit Off-Line / Oferta site 15%OFF",
         "2026-10-10 00:00:00",
@@ -75,8 +75,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 246,
-          "rlzFat": 29850.48
+          "rlzPed": 245,
+          "rlzFat": 29693.86
         },
         {
           "nome": "Shopee",
@@ -85,8 +85,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 799,
-          "rlzFat": 112683.72
+          "rlzPed": 798,
+          "rlzFat": 112462.41
         },
         {
           "nome": "PRO",
@@ -205,8 +205,8 @@
       "dia": "seg",
       "metaFat": 494244.6814500001,
       "metaPed": 2793,
-      "rlzFat": 429171.2499999999,
-      "rlzPed": 2675,
+      "rlzFat": 428881.5399999999,
+      "rlzPed": 2674,
       "atg": 86.8,
       "campanhas": [
         "nada / Kit Off-Line / Oferta site 15%OFF / Kids",
@@ -230,8 +230,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1130,
-          "rlzFat": 152299.26
+          "rlzPed": 1129,
+          "rlzFat": 152009.55
         },
         {
           "nome": "PRO",
@@ -255,8 +255,8 @@
       "dia": "ter",
       "metaFat": 483391.1488900001,
       "metaPed": 2750,
-      "rlzFat": 481624.5599999999,
-      "rlzPed": 3168,
+      "rlzFat": 481374.76,
+      "rlzPed": 3167,
       "atg": 99.6,
       "campanhas": [
         "nada / Kit Off-Line / Oferta site 15%OFF / Kids",
@@ -265,8 +265,8 @@
       "canais": [
         {
           "nome": "Ybera.com",
-          "rlzPed": 788,
-          "rlzFat": 193581.47
+          "rlzPed": 787,
+          "rlzFat": 193331.67
         },
         {
           "nome": "TikTok",
@@ -346,8 +346,8 @@
       "dia": "qui",
       "metaFat": 1621500.071,
       "metaPed": 8053,
-      "rlzFat": 1635313.79,
-      "rlzPed": 12510,
+      "rlzFat": 1634991.5,
+      "rlzPed": 12507,
       "atg": 100.8,
       "campanhas": [
         "Oferta Progressiva 150g e Mirra 15ml - 12h",
@@ -358,7 +358,7 @@
         {
           "nome": "Ybera.com",
           "rlzPed": 9348,
-          "rlzFat": 1294677.04
+          "rlzFat": 1294627.14
         },
         {
           "nome": "TikTok",
@@ -372,8 +372,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1995,
-          "rlzFat": 201776.64
+          "rlzPed": 1992,
+          "rlzFat": 201504.25
         },
         {
           "nome": "PRO",
@@ -392,8 +392,8 @@
       "dia": "sex",
       "metaFat": 764906.4587000001,
       "metaPed": 4358,
-      "rlzFat": 806238.2100000001,
-      "rlzPed": 6396,
+      "rlzFat": 805916.1100000001,
+      "rlzPed": 6394,
       "atg": 105.4,
       "campanhas": [
         "Oferta Progressiva 150g e Mirra 15ml - 12h",
@@ -402,8 +402,8 @@
       "canais": [
         {
           "nome": "Ybera.com",
-          "rlzPed": 3927,
-          "rlzFat": 562473.47
+          "rlzPed": 3925,
+          "rlzFat": 562151.37
         },
         {
           "nome": "TikTok",
@@ -437,9 +437,9 @@
       "dia": "sáb",
       "metaFat": 999948.77039,
       "metaPed": 6115,
-      "rlzFat": 903759.99,
-      "rlzPed": 7731,
-      "atg": 90.4,
+      "rlzFat": 903477.08,
+      "rlzPed": 7728,
+      "atg": 90.3,
       "campanhas": [
         "Oferta Progressiva 150g e Mirra 15ml - 12h",
         "Spike Day"
@@ -452,8 +452,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 1428,
-          "rlzFat": 117747.96
+          "rlzPed": 1426,
+          "rlzFat": 117527.96
         },
         {
           "nome": "Shopee",
@@ -462,8 +462,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 2990,
-          "rlzFat": 302643.7
+          "rlzPed": 2989,
+          "rlzFat": 302580.79
         },
         {
           "nome": "PRO",
@@ -616,9 +616,9 @@
       "dia": "qua",
       "metaFat": 424029.06314,
       "metaPed": 2460,
-      "rlzFat": 498054.6100000001,
-      "rlzPed": 2813,
-      "atg": 117.5,
+      "rlzFat": 497904.6900000001,
+      "rlzPed": 2812,
+      "atg": 117.4,
       "campanhas": [
         "nada / Kit Off-Line / Oferta site 15%OFF / Kids",
         "Top 10 produtos com preço de influ"
@@ -631,8 +631,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 899,
-          "rlzFat": 115711.91
+          "rlzPed": 898,
+          "rlzFat": 115561.99
         },
         {
           "nome": "Shopee",
@@ -661,8 +661,8 @@
       "dia": "qui",
       "metaFat": 572743.5848,
       "metaPed": 3107,
-      "rlzFat": 463527.6800000001,
-      "rlzPed": 2771,
+      "rlzFat": 463437.77,
+      "rlzPed": 2770,
       "atg": 80.9,
       "campanhas": [
         "Encerra Ofertas Kids 12hr",
@@ -686,8 +686,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1155,
-          "rlzFat": 150315.14
+          "rlzPed": 1154,
+          "rlzFat": 150225.23
         },
         {
           "nome": "PRO",
@@ -706,8 +706,8 @@
       "dia": "sex",
       "metaFat": 1067919.7231,
       "metaPed": 5488,
-      "rlzFat": 750941.64,
-      "rlzPed": 6236,
+      "rlzFat": 750322.9299999999,
+      "rlzPed": 6231,
       "atg": 70.3,
       "campanhas": [
         "Oferta Progressiva 150g - 12h",
@@ -717,8 +717,8 @@
       "canais": [
         {
           "nome": "Ybera.com",
-          "rlzPed": 4104,
-          "rlzFat": 514415.94
+          "rlzPed": 4103,
+          "rlzFat": 514096.34
         },
         {
           "nome": "TikTok",
@@ -732,8 +732,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1478,
-          "rlzFat": 157786.71
+          "rlzPed": 1474,
+          "rlzFat": 157487.6
         },
         {
           "nome": "PRO",
@@ -752,8 +752,8 @@
       "dia": "sáb",
       "metaFat": 567371.8656,
       "metaPed": 3213,
-      "rlzFat": 505759.14,
-      "rlzPed": 4414,
+      "rlzFat": 505689.24,
+      "rlzPed": 4413,
       "atg": 89.1,
       "campanhas": [
         "Oferta Progressiva 150g - 23.59h",
@@ -777,8 +777,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1442,
-          "rlzFat": 146962.45
+          "rlzPed": 1441,
+          "rlzFat": 146892.55
         },
         {
           "nome": "PRO",
@@ -797,9 +797,9 @@
       "dia": "dom",
       "metaFat": 403703.51875,
       "metaPed": 2350,
-      "rlzFat": 268830.06,
-      "rlzPed": 1732,
-      "atg": 66.6,
+      "rlzFat": 268612.26,
+      "rlzPed": 1730,
+      "atg": 66.5,
       "campanhas": [
         "Kit Off-Line / Oferta site 15%OFF",
         "Top 10 produtos com preço de influ"
@@ -812,8 +812,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 501,
-          "rlzFat": 42111.25
+          "rlzPed": 499,
+          "rlzFat": 41893.45
         },
         {
           "nome": "Shopee",
@@ -842,8 +842,8 @@
       "dia": "seg",
       "metaFat": 384827.80995,
       "metaPed": 2275,
-      "rlzFat": 353056.1,
-      "rlzPed": 2194,
+      "rlzFat": 352980.2,
+      "rlzPed": 2193,
       "atg": 91.7,
       "campanhas": [
         "Kit Off-Line / Oferta site 15%OFF",
@@ -868,8 +868,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1120,
-          "rlzFat": 139738.52
+          "rlzPed": 1119,
+          "rlzFat": 139662.62
         },
         {
           "nome": "PRO",
@@ -888,8 +888,8 @@
       "dia": "ter",
       "metaFat": 373974.27739,
       "metaPed": 2233,
-      "rlzFat": 597315.3500000001,
-      "rlzPed": 2726,
+      "rlzFat": 597136.6900000001,
+      "rlzPed": 2727,
       "atg": 159.7,
       "campanhas": [
         "Kit Off-Line / Oferta site 15%OFF",
@@ -904,8 +904,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 293,
-          "rlzFat": 27898.21
+          "rlzPed": 294,
+          "rlzFat": 27958.11
         },
         {
           "nome": "Shopee",
@@ -915,7 +915,7 @@
         {
           "nome": "Mktplace",
           "rlzPed": 1093,
-          "rlzFat": 142825.75
+          "rlzFat": 142587.19
         },
         {
           "nome": "PRO",
@@ -1115,7 +1115,7 @@
       "dia": "dom",
       "metaFat": 400703.8998,
       "metaPed": 2356,
-      "rlzFat": 278533.09,
+      "rlzFat": 278487.55,
       "rlzPed": 2085,
       "atg": 69.5,
       "campanhas": [
@@ -1141,7 +1141,7 @@
         {
           "nome": "Mktplace",
           "rlzPed": 681,
-          "rlzFat": 88812.36
+          "rlzFat": 88766.82
         },
         {
           "nome": "PRO",
@@ -1160,9 +1160,9 @@
       "dia": "seg",
       "metaFat": 389742.57875,
       "metaPed": 2257,
-      "rlzFat": 273632.85,
-      "rlzPed": 1919,
-      "atg": 70.2,
+      "rlzFat": 272573.4999999999,
+      "rlzPed": 1910,
+      "atg": 69.9,
       "campanhas": [
         "Kit Off-Line / Oferta site 15%OFF",
         "Top 10 produtos com preço de influ"
@@ -1175,8 +1175,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 275,
-          "rlzFat": 25460.7
+          "rlzPed": 272,
+          "rlzFat": 25259.0
         },
         {
           "nome": "Shopee",
@@ -1185,8 +1185,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 715,
-          "rlzFat": 90738.66
+          "rlzPed": 709,
+          "rlzFat": 89881.01
         },
         {
           "nome": "PRO",
@@ -1205,12 +1205,12 @@
       "dia": "ter",
       "metaFat": 366213.21995,
       "metaPed": 2151,
-      "rlzFat": 272384.23,
+      "rlzFat": 272270.86,
       "rlzPed": 1736,
       "atg": 74.4,
       "campanhas": [
         "Kit Off-Line / Oferta site 15%OFF",
-        "Campanha TikTok 11.11"
+        "Top 10 produtos com preço de influ"
       ],
       "canais": [
         {
@@ -1220,13 +1220,18 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 192,
-          "rlzFat": 21857.47
+          "rlzPed": 190,
+          "rlzFat": 21587.77
+        },
+        {
+          "nome": "Shopee",
+          "rlzPed": 4,
+          "rlzFat": 748.95
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 705,
-          "rlzFat": 98118.4
+          "rlzPed": 703,
+          "rlzFat": 97525.78
         },
         {
           "nome": "PRO",
@@ -1245,28 +1250,38 @@
       "dia": "qua",
       "metaFat": 350706.03739,
       "metaPed": 2078,
-      "rlzFat": 11858.45,
-      "rlzPed": 65,
-      "atg": 3.4,
+      "rlzFat": 275540.21,
+      "rlzPed": 1552,
+      "atg": 78.6,
       "campanhas": [
         "Kit Off-Line / Oferta site 15%OFF",
-        "Campanha TikTok 11.11"
+        "Campanha TikTok 11.11 (12h)"
       ],
       "canais": [
         {
           "nome": "Ybera.com",
-          "rlzPed": 12,
-          "rlzFat": 4771.73
+          "rlzPed": 398,
+          "rlzFat": 101273.56
         },
         {
           "nome": "TikTok",
-          "rlzPed": 8,
-          "rlzFat": 710.2
+          "rlzPed": 244,
+          "rlzFat": 30698.98
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 45,
-          "rlzFat": 6376.52
+          "rlzPed": 808,
+          "rlzFat": 115094.79
+        },
+        {
+          "nome": "PRO",
+          "rlzPed": 31,
+          "rlzFat": 16302.58
+        },
+        {
+          "nome": "Loja Interna",
+          "rlzPed": 71,
+          "rlzFat": 12170.3
         }
       ]
     },
@@ -1275,14 +1290,30 @@
       "dia": "qui",
       "metaFat": 370084.14368,
       "metaPed": 2105,
-      "rlzFat": null,
-      "rlzPed": null,
-      "atg": null,
+      "rlzFat": 10297.32,
+      "rlzPed": 62,
+      "atg": 2.8,
       "campanhas": [
         "nada / Kit Off-Line / Oferta site 15%OFF / BRASIL INFLUENCER",
         "Campanha TikTok 11.11"
       ],
-      "canais": []
+      "canais": [
+        {
+          "nome": "Ybera.com",
+          "rlzPed": 16,
+          "rlzFat": 3460.81
+        },
+        {
+          "nome": "TikTok",
+          "rlzPed": 8,
+          "rlzFat": 1139.43
+        },
+        {
+          "nome": "Mktplace",
+          "rlzPed": 38,
+          "rlzFat": 5697.08
+        }
+      ]
     },
     {
       "data": "30/10",
@@ -1333,7 +1364,7 @@
         "07/10",
         "08/10"
       ],
-      "atgMedio": 96.9
+      "atgMedio": 96.89
     },
     {
       "nome": "Toda Loja com 15% OFF",
@@ -1341,14 +1372,14 @@
         "01/10",
         "02/10"
       ],
-      "atgMedio": 131.85
+      "atgMedio": 131.8
     },
     {
       "nome": "nada / Kit Off-Line / Oferta site 15%OFF",
       "dias": [
         "02/10"
       ],
-      "atgMedio": 125.0
+      "atgMedio": 124.9
     },
     {
       "nome": "Inicio das ofertas Kids",
@@ -1375,7 +1406,7 @@
         "13/10",
         "14/10"
       ],
-      "atgMedio": 91.29
+      "atgMedio": 91.27
     },
     {
       "nome": "Volta do Mirra de 15ml",
@@ -1391,7 +1422,7 @@
         "09/10",
         "10/10"
       ],
-      "atgMedio": 98.87
+      "atgMedio": 98.83
     },
     {
       "nome": "Volta do Soro Vello",
@@ -1412,7 +1443,7 @@
       "dias": [
         "10/10"
       ],
-      "atgMedio": 90.4
+      "atgMedio": 90.3
     },
     {
       "nome": "Pós Spike",
@@ -1434,9 +1465,10 @@
         "20/10",
         "21/10",
         "22/10",
-        "26/10"
+        "26/10",
+        "27/10"
       ],
-      "atgMedio": 94.02
+      "atgMedio": 92.34
     },
     {
       "nome": "Encerra Ofertas Kids 12hr",
@@ -1479,7 +1511,7 @@
         "27/10",
         "28/10"
       ],
-      "atgMedio": 81.4
+      "atgMedio": 89.71
     },
     {
       "nome": "Ação de combo às 18h",
@@ -1538,15 +1570,11 @@
       "atgMedio": 69.5
     },
     {
-      "nome": "Campanha TikTok 11.11",
+      "nome": "Campanha TikTok 11.11 (12h)",
       "dias": [
-        "27/10",
-        "28/10",
-        "29/10",
-        "30/10",
-        "31/10"
+        "28/10"
       ],
-      "atgMedio": 38.9
+      "atgMedio": 78.6
     },
     {
       "nome": "nada / Kit Off-Line / Oferta site 15%OFF / BRASIL INFLUENCER",
@@ -1554,7 +1582,16 @@
         "29/10",
         "30/10"
       ],
-      "atgMedio": null
+      "atgMedio": 2.8
+    },
+    {
+      "nome": "Campanha TikTok 11.11",
+      "dias": [
+        "29/10",
+        "30/10",
+        "31/10"
+      ],
+      "atgMedio": 2.8
     },
     {
       "nome": "Encerra Kit Off-Line / Oferta site 15%OFF",
@@ -1567,8 +1604,8 @@
   "totais": {
     "metaFat": 17675774.74,
     "metaPed": 97984,
-    "rlzFat": 15125457.93,
-    "rlzPed": 99628,
-    "atg": 101.7
+    "rlzFat": 15394658.19,
+    "rlzPed": 101145,
+    "atg": 103.2
   }
 }
