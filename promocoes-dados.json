@@ -1,29 +1,33 @@
 {
-  "geradoEm": "2026-11-03T06:49:45-03:00",
+  "geradoEm": "2026-11-05T15:00:26-03:00",
   "fonte": "Planilha Google 'Diarização 2026' · aba Novembro",
   "mes": "Novembro 2026",
   "dias": [
     {
       "data": "01/11",
       "dia": "dom",
-      "metaFat": 3027247.5720999995,
-      "metaPed": 14122,
-      "rlzFat": 5411027.41,
-      "rlzPed": 17466,
-      "atg": 178.7,
+      "metaFat": 3062247.5720999995,
+      "metaPed": 14402,
+      "rlzFat": 5393690.37,
+      "rlzPed": 17400,
+      "atg": 176.1,
       "campanhas": [
-        "Oferta Prog 1kg + Camisa Black"
+        "TikTok 11.11 + Cupom (Prog 500 | Prog 150 + Mirra | Cronos)",
+        "Vendas Acelerador Influencer",
+        "INICIO DA CAMPANHA MIX DE PRODUTOS INICO 12H",
+        "INICIO 1º CAMPANHA DE OPORTUNIDADE INICIO 12H",
+        "inicia ÀS 12H PROGRESSIVA FG 1KG (YBERA PRO)"
       ],
       "canais": [
         {
           "nome": "Ybera.com",
-          "rlzPed": 15455,
-          "rlzFat": 4994597.25
+          "rlzPed": 15423,
+          "rlzFat": 4982417.3
         },
         {
           "nome": "TikTok",
-          "rlzPed": 790,
-          "rlzFat": 121957.4
+          "rlzPed": 771,
+          "rlzFat": 119185.91
         },
         {
           "nome": "Shopee",
@@ -32,13 +36,13 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 741,
-          "rlzFat": 127200.13
+          "rlzPed": 725,
+          "rlzFat": 124534.63
         },
         {
           "nome": "PRO",
-          "rlzPed": 227,
-          "rlzFat": 90887.59
+          "rlzPed": 228,
+          "rlzFat": 91167.49
         },
         {
           "nome": "Loja Interna",
@@ -50,29 +54,37 @@
     {
       "data": "02/11",
       "dia": "seg",
-      "metaFat": 1108371.4840375015,
-      "metaPed": 5463,
-      "rlzFat": 1811784.9400000002,
-      "rlzPed": 7190,
-      "atg": 163.5,
+      "metaFat": 1143371.4840375015,
+      "metaPed": 5743,
+      "rlzFat": 1796750.02,
+      "rlzPed": 7107,
+      "atg": 157.1,
       "campanhas": [
-        "Oferta Prog 1kg + Camisa Black"
+        "TikTok 11.11 + Cupom (Prog 1KG | Prog 150 + Mirra | S. Vello)",
+        "Vendas Acelerador Influencer",
+        "FIM DA CAMPANHA MIX DE PRODUTOS ENCERRA 12h",
+        "inicia AO MEIO DIA, DISCOVERY E GENOMA (YBERA PRO)"
       ],
       "canais": [
         {
           "nome": "Ybera.com",
-          "rlzPed": 5091,
-          "rlzFat": 1434337.17
+          "rlzPed": 5078,
+          "rlzFat": 1430928.26
         },
         {
           "nome": "TikTok",
-          "rlzPed": 863,
-          "rlzFat": 140718.81
+          "rlzPed": 843,
+          "rlzFat": 136919.03
+        },
+        {
+          "nome": "Shopee",
+          "rlzPed": 5,
+          "rlzFat": 553.27
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 984,
-          "rlzFat": 157185.97
+          "rlzPed": 929,
+          "rlzFat": 148806.47
         },
         {
           "nome": "PRO",
@@ -89,80 +101,144 @@
     {
       "data": "03/11",
       "dia": "ter",
-      "metaFat": 874281.9410808833,
-      "metaPed": 4901,
-      "rlzFat": 30857.93,
-      "rlzPed": 147,
-      "atg": 3.5,
+      "metaFat": 804281.9410808833,
+      "metaPed": 4341,
+      "rlzFat": 769942.4099999999,
+      "rlzPed": 3383,
+      "atg": 95.7,
       "campanhas": [
-        "Oferta Prog 1kg + Camisa Black"
+        "TikTok 11.11 + Cupom (Prog 1KG | Prog 150 + Mirra | Cronos)"
       ],
       "canais": [
         {
           "nome": "Ybera.com",
-          "rlzPed": 67,
-          "rlzFat": 18027.26
+          "rlzPed": 1525,
+          "rlzFat": 437672.81
         },
         {
           "nome": "TikTok",
-          "rlzPed": 36,
-          "rlzFat": 5644.03
+          "rlzPed": 654,
+          "rlzFat": 106933.44
+        },
+        {
+          "nome": "Shopee",
+          "rlzPed": 5,
+          "rlzFat": 965.1
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 44,
-          "rlzFat": 7186.64
+          "rlzPed": 923,
+          "rlzFat": 147565.1
+        },
+        {
+          "nome": "PRO",
+          "rlzPed": 42,
+          "rlzFat": 14549.64
+        },
+        {
+          "nome": "Loja Interna",
+          "rlzPed": 234,
+          "rlzFat": 62256.32
         }
       ]
     },
     {
       "data": "04/11",
       "dia": "qua",
-      "metaFat": 884888.2970808833,
-      "metaPed": 4832,
-      "rlzFat": null,
-      "rlzPed": null,
-      "atg": null,
+      "metaFat": 804281.9410808833,
+      "metaPed": 4341,
+      "rlzFat": 1095600.25,
+      "rlzPed": 3989,
+      "atg": 136.2,
       "campanhas": [
-        "Oferta Prog 1kg + Camisa Black"
+        "TikTok 11.11 + Cupom (Prog 500 | Prog 150 + Mirra | Cronos)"
       ],
-      "canais": []
+      "canais": [
+        {
+          "nome": "Ybera.com",
+          "rlzPed": 1452,
+          "rlzFat": 433626.1
+        },
+        {
+          "nome": "TikTok",
+          "rlzPed": 1033,
+          "rlzFat": 159618.9
+        },
+        {
+          "nome": "Mktplace",
+          "rlzPed": 1100,
+          "rlzFat": 176525.01
+        },
+        {
+          "nome": "PRO",
+          "rlzPed": 31,
+          "rlzFat": 12106.89
+        },
+        {
+          "nome": "Loja Interna",
+          "rlzPed": 373,
+          "rlzFat": 313723.35
+        }
+      ]
     },
     {
       "data": "05/11",
       "dia": "qui",
-      "metaFat": 6996458.5567499995,
-      "metaPed": 32960,
-      "rlzFat": null,
-      "rlzPed": null,
-      "atg": null,
+      "metaFat": 6816950.611749999,
+      "metaPed": 31716,
+      "rlzFat": 18771.38,
+      "rlzPed": 107,
+      "atg": 0.3,
       "campanhas": [
-        "Oferta Prog 1kg + Camisa Black"
+        "Campanha TikTok 11.11 + Cupom",
+        "CAMPANHA PROGRESSIVA E PÓS-PROGRESSIVA INICIO 12H",
+        "LIVE 19H show"
       ],
-      "canais": []
+      "canais": [
+        {
+          "nome": "Ybera.com",
+          "rlzPed": 28,
+          "rlzFat": 6249.63
+        },
+        {
+          "nome": "TikTok",
+          "rlzPed": 35,
+          "rlzFat": 5047.63
+        },
+        {
+          "nome": "Mktplace",
+          "rlzPed": 44,
+          "rlzFat": 7474.12
+        }
+      ]
     },
     {
       "data": "06/11",
       "dia": "sex",
-      "metaFat": 1337248.8231617662,
-      "metaPed": 6687,
+      "metaFat": 1481756.7681617662,
+      "metaPed": 7651,
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
       "campanhas": [
-        "Oferta Prog 1kg + Camisa Black"
+        "Campanha TikTok 11.11 + Cupom",
+        "Lançamentos + Camisa Black"
       ],
       "canais": []
     },
     {
       "data": "07/11",
       "dia": "sáb",
-      "metaFat": 760855.4665808831,
-      "metaPed": 4005,
+      "metaFat": 890912.6170808831,
+      "metaPed": 4872,
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "Campanha TikTok 11.11 + Cupom",
+        "Lançamentos + Camisa Black",
+        "FIM PROGRESSIVA E PÓS PROGRESSIVAS ENCERRA 12h"
+      ],
       "canais": []
     },
     {
@@ -173,7 +249,11 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "Campanha TikTok 11.11 + Cupom",
+        "Lançamentos + Camisa Black",
+        "CAMPANHA 1 DOS MIX DE PRODUTOS INICIO 12H"
+      ],
       "canais": []
     },
     {
@@ -184,18 +264,29 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "Pré Spike 11.11",
+        "Fim CAMPANHA 1 DOS MIX DE PRODUTOS ENCERRA 12h",
+        "FIM DA 1º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59",
+        "FIM DA DISCOVERY E GENOMA, ÀS 12H (YBERA PRO)",
+        "INICIA AO MEIO DIA, BOTULÍNICA E TERRA COCO (YBERA PRO)"
+      ],
       "canais": []
     },
     {
       "data": "10/11",
       "dia": "ter",
-      "metaFat": 6663941.677430155,
-      "metaPed": 31408,
+      "metaFat": 6649490.882930155,
+      "metaPed": 31311,
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "Spike Day 11.11",
+        "CAMPANHA MIRRA INICIO 12H",
+        "LIVE 19H shop",
+        "INICIO 2º CAMPANHA DE OPORTUNIDADE INICIO 12H"
+      ],
       "canais": []
     },
     {
@@ -206,7 +297,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "Pós Spike 11.11"
+      ],
       "canais": []
     },
     {
@@ -217,7 +310,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "FIM DO MIRRA ENCERRA 23h59"
+      ],
       "canais": []
     },
     {
@@ -239,7 +334,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "CAMPANHA RELÂMPAGO CRONOGRAMA CUIDADOS PROFUNDOS E CACHOS INICIO 12H"
+      ],
       "canais": []
     },
     {
@@ -250,7 +347,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "CAMPANHA RELÂMPAGO CRONOGRAMA CUIDADOS PROFUNDOS E CACHOS ENCERRA 12H"
+      ],
       "canais": []
     },
     {
@@ -261,7 +360,10 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "FIM DA BOTULÍNICA E TERRA COCO 12H (YBERA PRO)",
+        "INICIA 12H KERAFIVE22 E BLACK DIVA (YBERA PRO)"
+      ],
       "canais": []
     },
     {
@@ -272,7 +374,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "CAMPANHA RELÂMPAGO CRONOGRAMA LISO E LOIRO INICIO 12H"
+      ],
       "canais": []
     },
     {
@@ -283,7 +387,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "CAMPANHA RELÂMPAGO CRONOGRAMA LISO E LOIRO ENCERRA 12H"
+      ],
       "canais": []
     },
     {
@@ -294,7 +400,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "FIM DA 2º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59"
+      ],
       "canais": []
     },
     {
@@ -305,7 +413,11 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "LIVE 12H show + shop",
+        "CAMPANHA 100TIMETROS + VELLO INICIO 12H",
+        "INICIO 3º CAMPANHA DE OPORTUNIDADE INICIO 12H"
+      ],
       "canais": []
     },
     {
@@ -327,7 +439,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "CAMPANHA 100TIMETROS + VELLO ENCERRA 23h59"
+      ],
       "canais": []
     },
     {
@@ -338,7 +452,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "VOLTAM AO MEIO DIA, TODAS AS OFERTAS DO PRO QUE TIVEMOS NO MÊS (YBERA PRO)"
+      ],
       "canais": []
     },
     {
@@ -349,7 +465,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "CAMPANHA RELÂMPAGO 2 SACHES + FRASCO INICIO 12H e ENCERRA 23h59"
+      ],
       "canais": []
     },
     {
@@ -371,7 +489,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "LIVE 19H show + shop Lançamentos"
+      ],
       "canais": []
     },
     {
@@ -382,7 +502,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "AS OFERTA DA LIVE PERMANECEM (lançamentos)"
+      ],
       "canais": []
     },
     {
@@ -393,7 +515,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "AS OFERTA DA LIVE PERMANECEM (lançamentos)"
+      ],
       "canais": []
     },
     {
@@ -404,7 +528,9 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "AS OFERTA DA LIVE PERMANECEM (lançamentos)"
+      ],
       "canais": []
     },
     {
@@ -415,29 +541,338 @@
       "rlzFat": null,
       "rlzPed": null,
       "atg": null,
-      "campanhas": [],
+      "campanhas": [
+        "AS OFERTA DA LIVE (lançamentos) encerram 23h59",
+        "FIM DA 3º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59",
+        "FIM DA PROGRESSIVA FG 1KG 23H59(YBERA PRO)"
+      ],
       "canais": []
     }
   ],
   "campanhas": [
     {
-      "nome": "Oferta Prog 1kg + Camisa Black",
+      "nome": "TikTok 11.11 + Cupom (Prog 500 | Prog 150 + Mirra | Cronos)",
       "dias": [
         "01/11",
-        "02/11",
-        "03/11",
-        "04/11",
-        "05/11",
-        "06/11"
+        "04/11"
       ],
-      "atgMedio": 115.23
+      "atgMedio": 156.15
+    },
+    {
+      "nome": "Vendas Acelerador Influencer",
+      "dias": [
+        "01/11",
+        "02/11"
+      ],
+      "atgMedio": 166.6
+    },
+    {
+      "nome": "INICIO DA CAMPANHA MIX DE PRODUTOS INICO 12H",
+      "dias": [
+        "01/11"
+      ],
+      "atgMedio": 176.1
+    },
+    {
+      "nome": "INICIO 1º CAMPANHA DE OPORTUNIDADE INICIO 12H",
+      "dias": [
+        "01/11"
+      ],
+      "atgMedio": 176.1
+    },
+    {
+      "nome": "inicia ÀS 12H PROGRESSIVA FG 1KG (YBERA PRO)",
+      "dias": [
+        "01/11"
+      ],
+      "atgMedio": 176.1
+    },
+    {
+      "nome": "TikTok 11.11 + Cupom (Prog 1KG | Prog 150 + Mirra | S. Vello)",
+      "dias": [
+        "02/11"
+      ],
+      "atgMedio": 157.1
+    },
+    {
+      "nome": "FIM DA CAMPANHA MIX DE PRODUTOS ENCERRA 12h",
+      "dias": [
+        "02/11"
+      ],
+      "atgMedio": 157.1
+    },
+    {
+      "nome": "inicia AO MEIO DIA, DISCOVERY E GENOMA (YBERA PRO)",
+      "dias": [
+        "02/11"
+      ],
+      "atgMedio": 157.1
+    },
+    {
+      "nome": "TikTok 11.11 + Cupom (Prog 1KG | Prog 150 + Mirra | Cronos)",
+      "dias": [
+        "03/11"
+      ],
+      "atgMedio": 95.7
+    },
+    {
+      "nome": "Campanha TikTok 11.11 + Cupom",
+      "dias": [
+        "05/11",
+        "06/11",
+        "07/11",
+        "08/11"
+      ],
+      "atgMedio": 0.3
+    },
+    {
+      "nome": "CAMPANHA PROGRESSIVA E PÓS-PROGRESSIVA INICIO 12H",
+      "dias": [
+        "05/11"
+      ],
+      "atgMedio": 0.3
+    },
+    {
+      "nome": "LIVE 19H show",
+      "dias": [
+        "05/11"
+      ],
+      "atgMedio": 0.3
+    },
+    {
+      "nome": "Lançamentos + Camisa Black",
+      "dias": [
+        "06/11",
+        "07/11",
+        "08/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "FIM PROGRESSIVA E PÓS PROGRESSIVAS ENCERRA 12h",
+      "dias": [
+        "07/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "CAMPANHA 1 DOS MIX DE PRODUTOS INICIO 12H",
+      "dias": [
+        "08/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "Pré Spike 11.11",
+      "dias": [
+        "09/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "Fim CAMPANHA 1 DOS MIX DE PRODUTOS ENCERRA 12h",
+      "dias": [
+        "09/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "FIM DA 1º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59",
+      "dias": [
+        "09/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "FIM DA DISCOVERY E GENOMA, ÀS 12H (YBERA PRO)",
+      "dias": [
+        "09/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "INICIA AO MEIO DIA, BOTULÍNICA E TERRA COCO (YBERA PRO)",
+      "dias": [
+        "09/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "Spike Day 11.11",
+      "dias": [
+        "10/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "CAMPANHA MIRRA INICIO 12H",
+      "dias": [
+        "10/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "LIVE 19H shop",
+      "dias": [
+        "10/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "INICIO 2º CAMPANHA DE OPORTUNIDADE INICIO 12H",
+      "dias": [
+        "10/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "Pós Spike 11.11",
+      "dias": [
+        "11/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "FIM DO MIRRA ENCERRA 23h59",
+      "dias": [
+        "12/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "CAMPANHA RELÂMPAGO CRONOGRAMA CUIDADOS PROFUNDOS E CACHOS INICIO 12H",
+      "dias": [
+        "14/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "CAMPANHA RELÂMPAGO CRONOGRAMA CUIDADOS PROFUNDOS E CACHOS ENCERRA 12H",
+      "dias": [
+        "15/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "FIM DA BOTULÍNICA E TERRA COCO 12H (YBERA PRO)",
+      "dias": [
+        "16/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "INICIA 12H KERAFIVE22 E BLACK DIVA (YBERA PRO)",
+      "dias": [
+        "16/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "CAMPANHA RELÂMPAGO CRONOGRAMA LISO E LOIRO INICIO 12H",
+      "dias": [
+        "17/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "CAMPANHA RELÂMPAGO CRONOGRAMA LISO E LOIRO ENCERRA 12H",
+      "dias": [
+        "18/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "FIM DA 2º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59",
+      "dias": [
+        "19/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "LIVE 12H show + shop",
+      "dias": [
+        "20/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "CAMPANHA 100TIMETROS + VELLO INICIO 12H",
+      "dias": [
+        "20/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "INICIO 3º CAMPANHA DE OPORTUNIDADE INICIO 12H",
+      "dias": [
+        "20/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "CAMPANHA 100TIMETROS + VELLO ENCERRA 23h59",
+      "dias": [
+        "22/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "VOLTAM AO MEIO DIA, TODAS AS OFERTAS DO PRO QUE TIVEMOS NO MÊS (YBERA PRO)",
+      "dias": [
+        "23/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "CAMPANHA RELÂMPAGO 2 SACHES + FRASCO INICIO 12H e ENCERRA 23h59",
+      "dias": [
+        "24/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "LIVE 19H show + shop Lançamentos",
+      "dias": [
+        "26/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "AS OFERTA DA LIVE PERMANECEM (lançamentos)",
+      "dias": [
+        "27/11",
+        "28/11",
+        "29/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "AS OFERTA DA LIVE (lançamentos) encerram 23h59",
+      "dias": [
+        "30/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "FIM DA 3º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59",
+      "dias": [
+        "30/11"
+      ],
+      "atgMedio": null
+    },
+    {
+      "nome": "FIM DA PROGRESSIVA FG 1KG 23H59(YBERA PRO)",
+      "dias": [
+        "30/11"
+      ],
+      "atgMedio": null
     }
   ],
   "totais": {
     "metaFat": 65249302.23,
-    "metaPed": 322567,
-    "rlzFat": 7253670.28,
-    "rlzPed": 24803,
-    "atg": 7.7
+    "metaPed": 322566,
+    "rlzFat": 9074754.43,
+    "rlzPed": 31986,
+    "atg": 9.9
   }
 }
