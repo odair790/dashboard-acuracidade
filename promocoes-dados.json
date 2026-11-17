@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-17T07:45:07-03:00",
+  "geradoEm": "2026-11-17T12:15:09-03:00",
   "fonte": "Planilha Google 'Diarização 2026' · aba Novembro",
   "mes": "Novembro 2026",
   "dias": [
@@ -761,7 +761,7 @@
       "campanhas": [
         "Desconto Progressivo 15/25/35%",
         "40.9",
-        "CAMPANHA RELÂMPAGO DESCONTO PROGRESSIVO INICIO 12H"
+        "CAMPANHA RELÂMPAGO DE OFERTAS INICIO 18H"
       ],
       "canais": [
         {
@@ -796,7 +796,7 @@
       "atg": null,
       "campanhas": [
         "Desconto Progressivo 15/25/35%",
-        "CAMPANHA RELÂMPAGO DESCONTO PROGRESSIVO ENCERRA 12H"
+        "CAMPANHA RELÂMPAGO DE OFERTAS ENCERRA 18H"
       ],
       "canais": []
     },
@@ -1383,14 +1383,14 @@
       "atgMedio": 1.1
     },
     {
-      "nome": "CAMPANHA RELÂMPAGO DESCONTO PROGRESSIVO INICIO 12H",
+      "nome": "CAMPANHA RELÂMPAGO DE OFERTAS INICIO 18H",
       "dias": [
         "17/11"
       ],
       "atgMedio": 1.1
     },
     {
-      "nome": "CAMPANHA RELÂMPAGO DESCONTO PROGRESSIVO ENCERRA 12H",
+      "nome": "CAMPANHA RELÂMPAGO DE OFERTAS ENCERRA 18H",
       "dias": [
         "18/11"
       ],
