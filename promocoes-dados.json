@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-20T07:45:07-03:00",
+  "geradoEm": "2026-11-21T10:48:25-03:00",
   "fonte": "Planilha Google 'Diarização 2026' · aba Novembro",
   "mes": "Novembro 2026",
   "dias": [
@@ -8,8 +8,8 @@
       "dia": "dom",
       "metaFat": 3062247.5720999995,
       "metaPed": 14402,
-      "rlzFat": 5386044.16,
-      "rlzPed": 17372,
+      "rlzFat": 5385927.4,
+      "rlzPed": 17371,
       "atg": 175.9,
       "campanhas": [
         "Abertura campanha BF 4 Combos",
@@ -37,8 +37,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 690,
-          "rlzFat": 119121.08
+          "rlzPed": 689,
+          "rlzFat": 119004.32
         },
         {
           "nome": "PRO",
@@ -57,8 +57,8 @@
       "dia": "seg",
       "metaFat": 1143371.4840375015,
       "metaPed": 5743,
-      "rlzFat": 1789806.33,
-      "rlzPed": 7073,
+      "rlzFat": 1789901.1300000001,
+      "rlzPed": 7072,
       "atg": 156.5,
       "campanhas": [
         "Abertura campanha BF 4 Combos",
@@ -75,8 +75,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 838,
-          "rlzFat": 136150.67
+          "rlzPed": 837,
+          "rlzFat": 136043.24
         },
         {
           "nome": "Shopee",
@@ -86,7 +86,7 @@
         {
           "nome": "Mktplace",
           "rlzPed": 907,
-          "rlzFat": 144827.18
+          "rlzFat": 145029.41
         },
         {
           "nome": "PRO",
@@ -105,8 +105,8 @@
       "dia": "ter",
       "metaFat": 804281.9410808833,
       "metaPed": 4341,
-      "rlzFat": 762711.67,
-      "rlzPed": 3344,
+      "rlzFat": 762531.74,
+      "rlzPed": 3343,
       "atg": 94.8,
       "campanhas": [
         "Continuação progressiva 1kg",
@@ -121,8 +121,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 640,
-          "rlzFat": 104439.38
+          "rlzPed": 639,
+          "rlzFat": 104259.45
         },
         {
           "nome": "Shopee",
@@ -151,9 +151,9 @@
       "dia": "qua",
       "metaFat": 804281.9410808833,
       "metaPed": 4341,
-      "rlzFat": 1077200.0899999999,
-      "rlzPed": 3882,
-      "atg": 133.9,
+      "rlzFat": 1076567.75,
+      "rlzPed": 3878,
+      "atg": 133.8,
       "campanhas": [
         "Continuação progressiva 1kg",
         "TikTok 11.11 + Cupom (Prog 500 | Prog 150 + Mirra | Cronos)",
@@ -167,8 +167,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 1029,
-          "rlzFat": 159148.47
+          "rlzPed": 1027,
+          "rlzFat": 158772.72
         },
         {
           "nome": "Shopee",
@@ -177,8 +177,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1004,
-          "rlzFat": 160606.59
+          "rlzPed": 1002,
+          "rlzFat": 160350.0
         },
         {
           "nome": "PRO",
@@ -197,8 +197,8 @@
       "dia": "qui",
       "metaFat": 6816950.611749999,
       "metaPed": 31716,
-      "rlzFat": 5426631.85,
-      "rlzPed": 22491,
+      "rlzFat": 5426487.38,
+      "rlzPed": 22490,
       "atg": 79.6,
       "campanhas": [
         "Abertura 12hrs Campanha prog e pos + LIVE 19hrs + Continuação progressiva 1kg",
@@ -215,8 +215,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 1014,
-          "rlzFat": 161102.09
+          "rlzPed": 1013,
+          "rlzFat": 160957.62
         },
         {
           "nome": "Shopee",
@@ -245,8 +245,8 @@
       "dia": "sex",
       "metaFat": 1481756.7681617662,
       "metaPed": 7651,
-      "rlzFat": 1955156.22,
-      "rlzPed": 10491,
+      "rlzFat": 1954698.4,
+      "rlzPed": 10488,
       "atg": 131.9,
       "campanhas": [
         "Continuação produtos abertos 12hrs + progressiva 1kg",
@@ -261,8 +261,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 1786,
-          "rlzFat": 236945.86
+          "rlzPed": 1783,
+          "rlzFat": 236488.04
         },
         {
           "nome": "Shopee",
@@ -291,7 +291,7 @@
       "dia": "sáb",
       "metaFat": 890912.6170808831,
       "metaPed": 4872,
-      "rlzFat": 1133146.0000000002,
+      "rlzFat": 1133046.1,
       "rlzPed": 6465,
       "atg": 127.2,
       "campanhas": [
@@ -319,7 +319,7 @@
         {
           "nome": "Mktplace",
           "rlzPed": 1293,
-          "rlzFat": 195868.9
+          "rlzFat": 195769.0
         },
         {
           "nome": "PRO",
@@ -338,9 +338,9 @@
       "dia": "dom",
       "metaFat": 1061699.4321213246,
       "metaPed": 5431,
-      "rlzFat": 2779117.58,
-      "rlzPed": 13040,
-      "atg": 261.8,
+      "rlzFat": 2778790.92,
+      "rlzPed": 13038,
+      "atg": 261.7,
       "campanhas": [
         "Oferta Relampago CP 147,90 + Continuação progressiva 1kg",
         "Campanha TikTok 11.11 + Cupom",
@@ -355,8 +355,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 1137,
-          "rlzFat": 178227.91
+          "rlzPed": 1136,
+          "rlzFat": 177988.83
         },
         {
           "nome": "Shopee",
@@ -365,8 +365,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1254,
-          "rlzFat": 191544.73
+          "rlzPed": 1253,
+          "rlzFat": 191457.15
         },
         {
           "nome": "PRO",
@@ -385,8 +385,8 @@
       "dia": "seg",
       "metaFat": 1068326.1821213246,
       "metaPed": 5475,
-      "rlzFat": 974856.28,
-      "rlzPed": 4837,
+      "rlzFat": 974384.3600000001,
+      "rlzPed": 4835,
       "atg": 91.2,
       "campanhas": [
         "Fim CP 147,90 + fim progressiva 1kg",
@@ -405,8 +405,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 817,
-          "rlzFat": 112514.46
+          "rlzPed": 816,
+          "rlzFat": 112332.49
         },
         {
           "nome": "Shopee",
@@ -415,8 +415,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1143,
-          "rlzFat": 180046.69
+          "rlzPed": 1142,
+          "rlzFat": 179756.74
         },
         {
           "nome": "PRO",
@@ -435,8 +435,8 @@
       "dia": "ter",
       "metaFat": 6649490.882930155,
       "metaPed": 31311,
-      "rlzFat": 5878165.010000001,
-      "rlzPed": 26024,
+      "rlzFat": 5877186.430000001,
+      "rlzPed": 26018,
       "atg": 88.4,
       "campanhas": [
         "Live abertura 19hrs",
@@ -452,8 +452,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 1733,
-          "rlzFat": 276589.97
+          "rlzPed": 1727,
+          "rlzFat": 275611.39
         },
         {
           "nome": "Shopee",
@@ -482,9 +482,9 @@
       "dia": "qua",
       "metaFat": 1773554.85625,
       "metaPed": 10196,
-      "rlzFat": 2148735.98,
-      "rlzPed": 12171,
-      "atg": 121.2,
+      "rlzFat": 2148049.86,
+      "rlzPed": 12167,
+      "atg": 121.1,
       "campanhas": [
         "Continuação produtos live até 23.59hrs - abertura kitvip 12hrs",
         "Pós Spike 11.11",
@@ -501,8 +501,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 2587,
-          "rlzFat": 385858.11
+          "rlzPed": 2583,
+          "rlzFat": 385047.86
         },
         {
           "nome": "Shopee",
@@ -512,7 +512,7 @@
         {
           "nome": "Mktplace",
           "rlzPed": 4984,
-          "rlzFat": 585985.07
+          "rlzFat": 586109.2
         },
         {
           "nome": "PRO",
@@ -531,9 +531,9 @@
       "dia": "qui",
       "metaFat": 848854.3355808832,
       "metaPed": 4639,
-      "rlzFat": 655017.5700000002,
-      "rlzPed": 3785,
-      "atg": 77.2,
+      "rlzFat": 654673.4,
+      "rlzPed": 3782,
+      "atg": 77.1,
       "campanhas": [
         "Kit Vip",
         "28160.45"
@@ -546,18 +546,18 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 473,
-          "rlzFat": 73287.53
+          "rlzPed": 472,
+          "rlzFat": 73207.63
         },
         {
           "nome": "Shopee",
           "rlzPed": 37,
-          "rlzFat": 5705.96
+          "rlzFat": 5646.04
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1883,
-          "rlzFat": 221755.14
+          "rlzPed": 1881,
+          "rlzFat": 221550.79
         },
         {
           "nome": "PRO",
@@ -621,8 +621,8 @@
       "dia": "sáb",
       "metaFat": 2263342.0959499995,
       "metaPed": 10690,
-      "rlzFat": 1899369.0900000003,
-      "rlzPed": 10511,
+      "rlzFat": 1899320.4100000001,
+      "rlzPed": 10510,
       "atg": 83.9,
       "campanhas": [
         "Abertura 12hrs Campanha Shampoo Day R$69,90 + Mascara Protect R$19,90",
@@ -647,8 +647,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1154,
-          "rlzFat": 160469.35
+          "rlzPed": 1153,
+          "rlzFat": 160420.67
         },
         {
           "nome": "PRO",
@@ -667,8 +667,8 @@
       "dia": "dom",
       "metaFat": 1058943.69725,
       "metaPed": 5237,
-      "rlzFat": 674931.9099999999,
-      "rlzPed": 4426,
+      "rlzFat": 674905.46,
+      "rlzPed": 4425,
       "atg": 63.7,
       "campanhas": [
         "Fim 12hrs Campanha Shampoo Day R$69,90 + Mascara Protect R$19,90",
@@ -693,8 +693,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1221,
-          "rlzFat": 163269.45
+          "rlzPed": 1220,
+          "rlzFat": 163243.0
         },
         {
           "nome": "PRO",
@@ -713,9 +713,9 @@
       "dia": "seg",
       "metaFat": 952122.022,
       "metaPed": 5410,
-      "rlzFat": 599437.1,
-      "rlzPed": 3787,
-      "atg": 63.0,
+      "rlzFat": 599342.2,
+      "rlzPed": 3786,
+      "atg": 62.9,
       "campanhas": [
         "Kit Vip",
         "26973.32",
@@ -730,8 +730,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 1497,
-          "rlzFat": 197774.28
+          "rlzPed": 1500,
+          "rlzFat": 198087.79
         },
         {
           "nome": "Shopee",
@@ -740,8 +740,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1329,
-          "rlzFat": 175685.8
+          "rlzPed": 1325,
+          "rlzFat": 175277.39
         },
         {
           "nome": "PRO",
@@ -760,7 +760,7 @@
       "dia": "ter",
       "metaFat": 1866593.5397426493,
       "metaPed": 9009,
-      "rlzFat": 1793485.1199999999,
+      "rlzFat": 1793504.52,
       "rlzPed": 7010,
       "atg": 96.1,
       "campanhas": [
@@ -787,7 +787,7 @@
         {
           "nome": "Mktplace",
           "rlzPed": 1205,
-          "rlzFat": 174305.38
+          "rlzFat": 174324.78
         },
         {
           "nome": "PRO",
@@ -806,9 +806,9 @@
       "dia": "qua",
       "metaFat": 822816.7245808832,
       "metaPed": 4372,
-      "rlzFat": 1099546.71,
-      "rlzPed": 4900,
-      "atg": 133.6,
+      "rlzFat": 1096080.46,
+      "rlzPed": 4879,
+      "atg": 133.2,
       "campanhas": [
         "Desconto Progressivo 15/25/35%",
         "29177.19",
@@ -822,8 +822,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 640,
-          "rlzFat": 103878.92
+          "rlzPed": 630,
+          "rlzFat": 102371.27
         },
         {
           "nome": "Shopee",
@@ -832,8 +832,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1424,
-          "rlzFat": 218947.85
+          "rlzPed": 1413,
+          "rlzFat": 216989.25
         },
         {
           "nome": "PRO",
@@ -852,12 +852,12 @@
       "dia": "qui",
       "metaFat": 807763.5000808832,
       "metaPed": 4271,
-      "rlzFat": 438389.61,
-      "rlzPed": 2692,
-      "atg": 54.3,
+      "rlzFat": 433175.38,
+      "rlzPed": 2660,
+      "atg": 53.6,
       "campanhas": [
         "Kit Vip",
-        "62297.38",
+        "62169.58",
         "FIM DA 2º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59"
       ],
       "canais": [
@@ -868,13 +868,18 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 640,
-          "rlzFat": 102248.59
+          "rlzPed": 637,
+          "rlzFat": 101709.28
+        },
+        {
+          "nome": "Shopee",
+          "rlzPed": 8,
+          "rlzFat": 1840.38
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1156,
-          "rlzFat": 158310.42
+          "rlzPed": 1120,
+          "rlzFat": 151922.92
         },
         {
           "nome": "PRO",
@@ -883,8 +888,8 @@
         },
         {
           "nome": "Loja Interna",
-          "rlzPed": 435,
-          "rlzFat": 66355.18
+          "rlzPed": 434,
+          "rlzFat": 66227.38
         }
       ]
     },
@@ -893,12 +898,12 @@
       "dia": "sex",
       "metaFat": 6599965.997430155,
       "metaPed": 30888,
-      "rlzFat": 23853.74,
-      "rlzPed": 142,
-      "atg": 0.4,
+      "rlzFat": 6050441.72,
+      "rlzPed": 24780,
+      "atg": 91.7,
       "campanhas": [
         "Live abertura 12hrs",
-        "127.8",
+        "58928.44",
         "LIVE 09H show + shop",
         "CAMPANHA 100TIMETROS + VELLO INICIO 12H",
         "INICIO 3º CAMPANHA DE OPORTUNIDADE INICIO 12H"
@@ -906,28 +911,28 @@
       "canais": [
         {
           "nome": "Ybera.com",
-          "rlzPed": 8,
-          "rlzFat": 1657.67
+          "rlzPed": 21547,
+          "rlzFat": 5537477.21
         },
         {
           "nome": "TikTok",
-          "rlzPed": 50,
-          "rlzFat": 9062.18
+          "rlzPed": 1338,
+          "rlzFat": 198503.64
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 82,
-          "rlzFat": 12845.27
+          "rlzPed": 1262,
+          "rlzFat": 178475.87
         },
         {
           "nome": "PRO",
-          "rlzPed": 1,
-          "rlzFat": 160.82
+          "rlzPed": 247,
+          "rlzFat": 71203.16
         },
         {
           "nome": "Loja Interna",
-          "rlzPed": 1,
-          "rlzFat": 127.8
+          "rlzPed": 386,
+          "rlzFat": 64781.84
         }
       ]
     },
@@ -936,13 +941,29 @@
       "dia": "sáb",
       "metaFat": 1162119.9497500001,
       "metaPed": 5756,
-      "rlzFat": null,
-      "rlzPed": null,
-      "atg": null,
+      "rlzFat": 62314.08,
+      "rlzPed": 262,
+      "atg": 5.4,
       "campanhas": [
         "Continuação das ofertas da live + Cápsulas Potão"
       ],
-      "canais": []
+      "canais": [
+        {
+          "nome": "Ybera.com",
+          "rlzPed": 203,
+          "rlzFat": 53189.02
+        },
+        {
+          "nome": "TikTok",
+          "rlzPed": 10,
+          "rlzFat": 1437.99
+        },
+        {
+          "nome": "Mktplace",
+          "rlzPed": 49,
+          "rlzFat": 7687.07
+        }
+      ]
     },
     {
       "data": "22/11",
@@ -1087,7 +1108,7 @@
         "01/11",
         "04/11"
       ],
-      "atgMedio": 154.9
+      "atgMedio": 154.85
     },
     {
       "nome": "38476.06",
@@ -1151,7 +1172,7 @@
         "03/11",
         "04/11"
       ],
-      "atgMedio": 114.35
+      "atgMedio": 114.3
     },
     {
       "nome": "TikTok 11.11 + Cupom (Prog 1KG | Prog 150 + Mirra | Cronos)",
@@ -1172,7 +1193,7 @@
       "dias": [
         "04/11"
       ],
-      "atgMedio": 133.9
+      "atgMedio": 133.8
     },
     {
       "nome": "Abertura 12hrs Campanha prog e pos + LIVE 19hrs + Continuação progressiva 1kg",
@@ -1189,7 +1210,7 @@
         "07/11",
         "08/11"
       ],
-      "atgMedio": 150.12
+      "atgMedio": 150.1
     },
     {
       "nome": "32380.89",
@@ -1246,21 +1267,21 @@
       "dias": [
         "08/11"
       ],
-      "atgMedio": 261.8
+      "atgMedio": 261.7
     },
     {
       "nome": "28434.18",
       "dias": [
         "08/11"
       ],
-      "atgMedio": 261.8
+      "atgMedio": 261.7
     },
     {
       "nome": "CAMPANHA 1 DOS MIX DE PRODUTOS INICIO 12H",
       "dias": [
         "08/11"
       ],
-      "atgMedio": 261.8
+      "atgMedio": 261.7
     },
     {
       "nome": "Fim CP 147,90 + fim progressiva 1kg",
@@ -1344,42 +1365,42 @@
       "dias": [
         "11/11"
       ],
-      "atgMedio": 121.2
+      "atgMedio": 121.1
     },
     {
       "nome": "Pós Spike 11.11",
       "dias": [
         "11/11"
       ],
-      "atgMedio": 121.2
+      "atgMedio": 121.1
     },
     {
       "nome": "32457.11",
       "dias": [
         "11/11"
       ],
-      "atgMedio": 121.2
+      "atgMedio": 121.1
     },
     {
       "nome": "INICIO 2º CAMPANHA DE OPORTUNIDADE INICIO 12H",
       "dias": [
         "11/11"
       ],
-      "atgMedio": 121.2
+      "atgMedio": 121.1
     },
     {
       "nome": "INICIA AO MEIO DIA, Compra 4 Fashion Gold 1kg ganha um secador 220V (YBERA PRO)",
       "dias": [
         "11/11"
       ],
-      "atgMedio": 121.2
+      "atgMedio": 121.1
     },
     {
       "nome": "FIM DAS OFERTAS DE LIVE ENCERRA 22h",
       "dias": [
         "11/11"
       ],
-      "atgMedio": 121.2
+      "atgMedio": 121.1
     },
     {
       "nome": "Kit Vip",
@@ -1389,14 +1410,14 @@
         "16/11",
         "19/11"
       ],
-      "atgMedio": 64.08
+      "atgMedio": 63.85
     },
     {
       "nome": "28160.45",
       "dias": [
         "12/11"
       ],
-      "atgMedio": 77.2
+      "atgMedio": 77.1
     },
     {
       "nome": "20080.31",
@@ -1452,21 +1473,21 @@
       "dias": [
         "16/11"
       ],
-      "atgMedio": 63.0
+      "atgMedio": 62.9
     },
     {
       "nome": "FIM DA BOTULÍNICA E TERRA COCO 12H (YBERA PRO)",
       "dias": [
         "16/11"
       ],
-      "atgMedio": 63.0
+      "atgMedio": 62.9
     },
     {
       "nome": "INICIA 12H KERAFIVE22 E BLACK DIVA (YBERA PRO)",
       "dias": [
         "16/11"
       ],
-      "atgMedio": 63.0
+      "atgMedio": 62.9
     },
     {
       "nome": "Desconto Progressivo 15/25/35%",
@@ -1474,7 +1495,7 @@
         "17/11",
         "18/11"
       ],
-      "atgMedio": 114.85
+      "atgMedio": 114.65
     },
     {
       "nome": "44399.88",
@@ -1495,63 +1516,63 @@
       "dias": [
         "18/11"
       ],
-      "atgMedio": 133.6
+      "atgMedio": 133.2
     },
     {
       "nome": "CAMPANHA RELÂMPAGO DE OFERTAS ENCERRA 18H",
       "dias": [
         "18/11"
       ],
-      "atgMedio": 133.6
+      "atgMedio": 133.2
     },
     {
-      "nome": "62297.38",
+      "nome": "62169.58",
       "dias": [
         "19/11"
       ],
-      "atgMedio": 54.3
+      "atgMedio": 53.6
     },
     {
       "nome": "FIM DA 2º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59",
       "dias": [
         "19/11"
       ],
-      "atgMedio": 54.3
+      "atgMedio": 53.6
     },
     {
       "nome": "Live abertura 12hrs",
       "dias": [
         "20/11"
       ],
-      "atgMedio": 0.4
+      "atgMedio": 91.7
     },
     {
-      "nome": "127.8",
+      "nome": "58928.44",
       "dias": [
         "20/11"
       ],
-      "atgMedio": 0.4
+      "atgMedio": 91.7
     },
     {
       "nome": "LIVE 09H show + shop",
       "dias": [
         "20/11"
       ],
-      "atgMedio": 0.4
+      "atgMedio": 91.7
     },
     {
       "nome": "CAMPANHA 100TIMETROS + VELLO INICIO 12H",
       "dias": [
         "20/11"
       ],
-      "atgMedio": 0.4
+      "atgMedio": 91.7
     },
     {
       "nome": "INICIO 3º CAMPANHA DE OPORTUNIDADE INICIO 12H",
       "dias": [
         "20/11"
       ],
-      "atgMedio": 0.4
+      "atgMedio": 91.7
     },
     {
       "nome": "Continuação das ofertas da live + Cápsulas Potão",
@@ -1559,7 +1580,7 @@
         "21/11",
         "22/11"
       ],
-      "atgMedio": null
+      "atgMedio": 5.4
     },
     {
       "nome": "CAMPANHA 100TIMETROS + VELLO ENCERRA 23h59",
@@ -1649,8 +1670,8 @@
   "totais": {
     "metaFat": 65249302.23,
     "metaPed": 322566,
-    "rlzFat": 36967848.58,
-    "rlzPed": 167027,
-    "atg": 51.8
+    "rlzFat": 43043575.66,
+    "rlzPed": 191843,
+    "atg": 59.5
   }
 }
