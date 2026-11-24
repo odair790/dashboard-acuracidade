@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-23T12:15:10-03:00",
+  "geradoEm": "2026-11-24T07:45:06-03:00",
   "fonte": "Planilha Google 'Diarização 2026' · aba Novembro",
   "mes": "Novembro 2026",
   "dias": [
@@ -13,7 +13,7 @@
       "atg": 175.8,
       "campanhas": [
         "Abertura campanha BF 4 Combos",
-        "TikTok 11.11 + Cupom (Prog 500 | Prog 150 + Mirra | Cronos)",
+        "Campanha TikTok 11.11 + Cupom",
         "38476.06",
         "INICIO DA CAMPANHA MIX DE PRODUTOS INICO 12H",
         "INICIO 1º CAMPANHA DE OPORTUNIDADE INICIO 12H",
@@ -62,7 +62,7 @@
       "atg": 156.5,
       "campanhas": [
         "Abertura campanha BF 4 Combos",
-        "TikTok 11.11 + Cupom (Prog 1KG | Prog 150 + Mirra | S. Vello)",
+        "Campanha TikTok 11.11 + Cupom",
         "20868.22",
         "FIM DA CAMPANHA MIX DE PRODUTOS ENCERRA 12h",
         "inicia AO MEIO DIA, DISCOVERY E GENOMA (YBERA PRO)"
@@ -110,7 +110,7 @@
       "atg": 94.8,
       "campanhas": [
         "Continuação progressiva 1kg",
-        "TikTok 11.11 + Cupom (Prog 1KG | Prog 150 + Mirra | Cronos)",
+        "Campanha TikTok 11.11 + Cupom",
         "31121.22"
       ],
       "canais": [
@@ -151,12 +151,12 @@
       "dia": "qua",
       "metaFat": 804281.9410808833,
       "metaPed": 4341,
-      "rlzFat": 1076567.75,
-      "rlzPed": 3878,
+      "rlzFat": 1076499.44,
+      "rlzPed": 3877,
       "atg": 133.8,
       "campanhas": [
         "Continuação progressiva 1kg",
-        "TikTok 11.11 + Cupom (Prog 500 | Prog 150 + Mirra | Cronos)",
+        "Campanha TikTok 11.11 + Cupom",
         "19247.75"
       ],
       "canais": [
@@ -177,8 +177,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1002,
-          "rlzFat": 160350.0
+          "rlzPed": 1001,
+          "rlzFat": 160281.69
         },
         {
           "nome": "PRO",
@@ -197,8 +197,8 @@
       "dia": "qui",
       "metaFat": 6816950.611749999,
       "metaPed": 31716,
-      "rlzFat": 5427017.38,
-      "rlzPed": 22492,
+      "rlzFat": 5426917.48,
+      "rlzPed": 22491,
       "atg": 79.6,
       "campanhas": [
         "Abertura 12hrs Campanha prog e pos + LIVE 19hrs + Continuação progressiva 1kg",
@@ -225,8 +225,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1325,
-          "rlzFat": 211631.18
+          "rlzPed": 1324,
+          "rlzFat": 211531.28
         },
         {
           "nome": "PRO",
@@ -245,8 +245,8 @@
       "dia": "sex",
       "metaFat": 1481756.7681617662,
       "metaPed": 7651,
-      "rlzFat": 1954698.4,
-      "rlzPed": 10488,
+      "rlzFat": 1954605.13,
+      "rlzPed": 10487,
       "atg": 131.9,
       "campanhas": [
         "Continuação produtos abertos 12hrs + progressiva 1kg",
@@ -271,8 +271,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1514,
-          "rlzFat": 229312.78
+          "rlzPed": 1513,
+          "rlzFat": 229219.51
         },
         {
           "nome": "PRO",
@@ -291,8 +291,8 @@
       "dia": "sáb",
       "metaFat": 890912.6170808831,
       "metaPed": 4872,
-      "rlzFat": 1133010.3,
-      "rlzPed": 6465,
+      "rlzFat": 1132922.9200000002,
+      "rlzPed": 6463,
       "atg": 127.2,
       "campanhas": [
         "Continuação produtos abertos 12hrs + progressiva 1kg",
@@ -303,8 +303,8 @@
       "canais": [
         {
           "nome": "Ybera.com",
-          "rlzPed": 2159,
-          "rlzFat": 504575.8
+          "rlzPed": 2160,
+          "rlzFat": 504841.7
         },
         {
           "nome": "TikTok",
@@ -318,8 +318,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1294,
-          "rlzFat": 195833.89
+          "rlzPed": 1291,
+          "rlzFat": 195480.61
         },
         {
           "nome": "PRO",
@@ -338,8 +338,8 @@
       "dia": "dom",
       "metaFat": 1061699.4321213246,
       "metaPed": 5431,
-      "rlzFat": 2778694.4,
-      "rlzPed": 13037,
+      "rlzFat": 2778380.9999999995,
+      "rlzPed": 13036,
       "atg": 261.7,
       "campanhas": [
         "Oferta Relampago CP 147,90 + Continuação progressiva 1kg",
@@ -365,8 +365,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1253,
-          "rlzFat": 191449.93
+          "rlzPed": 1252,
+          "rlzFat": 191136.53
         },
         {
           "nome": "PRO",
@@ -385,12 +385,12 @@
       "dia": "seg",
       "metaFat": 1068326.1821213246,
       "metaPed": 5475,
-      "rlzFat": 974384.3600000001,
-      "rlzPed": 4835,
+      "rlzFat": 973981.04,
+      "rlzPed": 4833,
       "atg": 91.2,
       "campanhas": [
         "Fim CP 147,90 + fim progressiva 1kg",
-        "Pré Spike 11.11",
+        "Campanha TikTok 11.11 + Cupom",
         "27562.08",
         "Fim CAMPANHA 1 DOS MIX DE PRODUTOS ENCERRA 12h",
         "FIM DA 1º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59",
@@ -415,8 +415,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1142,
-          "rlzFat": 179756.74
+          "rlzPed": 1140,
+          "rlzFat": 179353.42
         },
         {
           "nome": "PRO",
@@ -440,7 +440,7 @@
       "atg": 88.4,
       "campanhas": [
         "Live abertura 19hrs",
-        "Spike Day 11.11",
+        "Pré Spike 11.11",
         "33342.03",
         "LIVE 19H shop"
       ],
@@ -482,12 +482,12 @@
       "dia": "qua",
       "metaFat": 1773554.85625,
       "metaPed": 10196,
-      "rlzFat": 2146734.44,
-      "rlzPed": 12160,
+      "rlzFat": 2146396.49,
+      "rlzPed": 12158,
       "atg": 121.0,
       "campanhas": [
         "Continuação produtos live até 23.59hrs - abertura kitvip 12hrs",
-        "Pós Spike 11.11",
+        "Spike Day 11.11",
         "32457.11",
         "INICIO 2º CAMPANHA DE OPORTUNIDADE INICIO 12H",
         "INICIA AO MEIO DIA, Compra 4 Fashion Gold 1kg ganha um secador 220V (YBERA PRO)",
@@ -511,8 +511,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 4982,
-          "rlzFat": 585676.94
+          "rlzPed": 4980,
+          "rlzFat": 585338.99
         },
         {
           "nome": "PRO",
@@ -531,11 +531,12 @@
       "dia": "qui",
       "metaFat": 848854.3355808832,
       "metaPed": 4639,
-      "rlzFat": 654636.64,
-      "rlzPed": 3781,
+      "rlzFat": 654364.14,
+      "rlzPed": 3779,
       "atg": 77.1,
       "campanhas": [
         "Kit Vip",
+        "Ciclos de ofertas",
         "28160.45"
       ],
       "canais": [
@@ -556,8 +557,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1880,
-          "rlzFat": 221514.03
+          "rlzPed": 1878,
+          "rlzFat": 221241.53
         },
         {
           "nome": "PRO",
@@ -581,6 +582,7 @@
       "atg": 61.8,
       "campanhas": [
         "Kit Vip",
+        "Ciclos de ofertas",
         "20080.31"
       ],
       "canais": [
@@ -621,11 +623,12 @@
       "dia": "sáb",
       "metaFat": 2263342.0959499995,
       "metaPed": 10690,
-      "rlzFat": 1898690.4800000002,
-      "rlzPed": 10509,
+      "rlzFat": 1898248.0100000002,
+      "rlzPed": 10506,
       "atg": 83.9,
       "campanhas": [
         "Abertura 12hrs Campanha Shampoo Day R$69,90 + Mascara Protect R$19,90",
+        "Ciclos de ofertas",
         "31143.41",
         "CAMPANHA RELÂMPAGO DIA DO SHAMPOO INICIO 12H"
       ],
@@ -647,8 +650,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1152,
-          "rlzFat": 159790.74
+          "rlzPed": 1149,
+          "rlzFat": 159348.27
         },
         {
           "nome": "PRO",
@@ -667,11 +670,12 @@
       "dia": "dom",
       "metaFat": 1058943.69725,
       "metaPed": 5237,
-      "rlzFat": 674905.46,
-      "rlzPed": 4425,
+      "rlzFat": 674786.7399999999,
+      "rlzPed": 4424,
       "atg": 63.7,
       "campanhas": [
         "Fim 12hrs Campanha Shampoo Day R$69,90 + Mascara Protect R$19,90",
+        "Ciclos de ofertas",
         "15634.22",
         "CAMPANHA RELÂMPAGO DIA DO SHAMPOO ENCERRA 12H"
       ],
@@ -683,8 +687,8 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 1463,
-          "rlzFat": 184702.87
+          "rlzPed": 1462,
+          "rlzFat": 184584.15
         },
         {
           "nome": "Shopee",
@@ -713,11 +717,12 @@
       "dia": "seg",
       "metaFat": 952122.022,
       "metaPed": 5410,
-      "rlzFat": 599342.2,
-      "rlzPed": 3786,
+      "rlzFat": 598928.5,
+      "rlzPed": 3784,
       "atg": 62.9,
       "campanhas": [
         "Kit Vip",
+        "Incentivo maior via cupom",
         "26973.32",
         "FIM DA BOTULÍNICA E TERRA COCO 12H (YBERA PRO)",
         "INICIA 12H KERAFIVE22 E BLACK DIVA (YBERA PRO)"
@@ -740,8 +745,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1325,
-          "rlzFat": 175277.39
+          "rlzPed": 1323,
+          "rlzFat": 174863.69
         },
         {
           "nome": "PRO",
@@ -760,11 +765,12 @@
       "dia": "ter",
       "metaFat": 1866593.5397426493,
       "metaPed": 9009,
-      "rlzFat": 1793519.65,
-      "rlzPed": 7007,
+      "rlzFat": 1792989.25,
+      "rlzPed": 7001,
       "atg": 96.1,
       "campanhas": [
         "Desconto Progressivo 15/25/35%",
+        "Ciclos de ofertas",
         "44879.88",
         "CAMPANHA RELÂMPAGO DE OFERTAS INICIO 18H"
       ],
@@ -786,8 +792,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1200,
-          "rlzFat": 173859.91
+          "rlzPed": 1194,
+          "rlzFat": 173329.51
         },
         {
           "nome": "PRO",
@@ -806,11 +812,12 @@
       "dia": "qua",
       "metaFat": 822816.7245808832,
       "metaPed": 4372,
-      "rlzFat": 1096080.46,
-      "rlzPed": 4879,
-      "atg": 133.2,
+      "rlzFat": 1095598.3800000001,
+      "rlzPed": 4876,
+      "atg": 133.1,
       "campanhas": [
         "Desconto Progressivo 15/25/35%",
+        "Ciclos de ofertas",
         "29177.19",
         "CAMPANHA RELÂMPAGO DE OFERTAS ENCERRA 18H"
       ],
@@ -832,8 +839,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1413,
-          "rlzFat": 216989.25
+          "rlzPed": 1410,
+          "rlzFat": 216507.17
         },
         {
           "nome": "PRO",
@@ -852,24 +859,25 @@
       "dia": "qui",
       "metaFat": 807763.5000808832,
       "metaPed": 4271,
-      "rlzFat": 427205.68,
-      "rlzPed": 2625,
+      "rlzFat": 427057.38,
+      "rlzPed": 2623,
       "atg": 52.9,
       "campanhas": [
         "Kit Vip",
+        "Ciclos de ofertas",
         "62169.58",
         "FIM DA 2º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59"
       ],
       "canais": [
         {
           "nome": "Ybera.com",
-          "rlzPed": 428,
-          "rlzFat": 97979.43
+          "rlzPed": 429,
+          "rlzFat": 98069.54
         },
         {
           "nome": "TikTok",
           "rlzPed": 622,
-          "rlzFat": 99326.02
+          "rlzFat": 99355.84
         },
         {
           "nome": "Shopee",
@@ -878,8 +886,8 @@
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1097,
-          "rlzFat": 147485.52
+          "rlzPed": 1094,
+          "rlzFat": 147217.29
         },
         {
           "nome": "PRO",
@@ -898,11 +906,12 @@
       "dia": "sex",
       "metaFat": 6599965.997430155,
       "metaPed": 30888,
-      "rlzFat": 6033879.08,
-      "rlzPed": 24693,
+      "rlzFat": 6033492.9,
+      "rlzPed": 24689,
       "atg": 91.4,
       "campanhas": [
         "Live abertura 12hrs",
+        "Incentivo maior via cupom",
         "58928.44",
         "LIVE 09H show + shop",
         "INICIO 3º CAMPANHA DE OPORTUNIDADE INICIO 12H"
@@ -920,13 +929,13 @@
         },
         {
           "nome": "Shopee",
-          "rlzPed": 2,
-          "rlzFat": 163.7
+          "rlzPed": 8,
+          "rlzFat": 1540.91
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 1185,
-          "rlzFat": 165041.1
+          "rlzPed": 1175,
+          "rlzFat": 163277.71
         },
         {
           "nome": "PRO",
@@ -945,28 +954,29 @@
       "dia": "sáb",
       "metaFat": 1162119.9497500001,
       "metaPed": 5756,
-      "rlzFat": 922495.0900000001,
-      "rlzPed": 4786,
-      "atg": 79.4,
+      "rlzFat": 919671.88,
+      "rlzPed": 4762,
+      "atg": 79.1,
       "campanhas": [
         "Continuação das ofertas da live + Cápsulas Potão",
+        "Ciclos de ofertas",
         "15423.98"
       ],
       "canais": [
         {
           "nome": "Ybera.com",
-          "rlzPed": 2741,
-          "rlzFat": 644930.15
+          "rlzPed": 2742,
+          "rlzFat": 645084.95
         },
         {
           "nome": "TikTok",
-          "rlzPed": 1027,
-          "rlzFat": 125157.37
+          "rlzPed": 1014,
+          "rlzFat": 123294.49
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 854,
-          "rlzFat": 120684.31
+          "rlzPed": 842,
+          "rlzFat": 119569.18
         },
         {
           "nome": "PRO",
@@ -985,11 +995,12 @@
       "dia": "dom",
       "metaFat": 757784.3665808832,
       "metaPed": 3938,
-      "rlzFat": 666563.1,
-      "rlzPed": 3357,
-      "atg": 88.0,
+      "rlzFat": 664858.11,
+      "rlzPed": 3342,
+      "atg": 87.7,
       "campanhas": [
         "Continuação das ofertas da live + Cápsulas Potão",
+        "Ciclos de ofertas",
         "13891.45"
       ],
       "canais": [
@@ -1000,13 +1011,13 @@
         },
         {
           "nome": "TikTok",
-          "rlzPed": 389,
-          "rlzFat": 51523.08
+          "rlzPed": 390,
+          "rlzFat": 51720.38
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 816,
-          "rlzFat": 114962.69
+          "rlzPed": 800,
+          "rlzFat": 113060.4
         },
         {
           "nome": "PRO",
@@ -1025,29 +1036,41 @@
       "dia": "seg",
       "metaFat": 813802.9810808832,
       "metaPed": 4312,
-      "rlzFat": 9464.92,
-      "rlzPed": 60,
-      "atg": 1.2,
+      "rlzFat": 777100.8099999999,
+      "rlzPed": 4411,
+      "atg": 95.5,
       "campanhas": [
-        "Cápsulas Potão",
+        "Cápsulas Potão 149,90 a partir das 18hrs + progressiva 500g 149,90",
+        "21238.02",
         "VOLTAM AO MEIO DIA, TODAS AS OFERTAS DO PRO QUE TIVEMOS NO MÊS (YBERA PRO)",
-        "CAMPANHA PROGRESSIVAS 300g e 500g + POTAO 100TIMETROS INICIA 18h"
+        "CAMPANHA PROGRESSIVAS 500g + POTAO 100TIMETROS INICIA 18h",
+        "POTAO 100TIMETROS INICIA 18h"
       ],
       "canais": [
         {
           "nome": "Ybera.com",
-          "rlzPed": 4,
-          "rlzFat": 1381.89
+          "rlzPed": 2753,
+          "rlzFat": 525939.92
         },
         {
           "nome": "TikTok",
-          "rlzPed": 12,
-          "rlzFat": 1247.66
+          "rlzPed": 272,
+          "rlzFat": 37678.36
         },
         {
           "nome": "Mktplace",
-          "rlzPed": 44,
-          "rlzFat": 6835.37
+          "rlzPed": 1153,
+          "rlzFat": 161888.43
+        },
+        {
+          "nome": "PRO",
+          "rlzPed": 57,
+          "rlzFat": 22365.88
+        },
+        {
+          "nome": "Loja Interna",
+          "rlzPed": 176,
+          "rlzFat": 29228.22
         }
       ]
     },
@@ -1056,15 +1079,31 @@
       "dia": "ter",
       "metaFat": 2487503.5215000003,
       "metaPed": 12152,
-      "rlzFat": null,
-      "rlzPed": null,
-      "atg": null,
+      "rlzFat": 41714.6,
+      "rlzPed": 244,
+      "atg": 1.7,
       "campanhas": [
-        "Cápsulas Potão",
-        "CAMPANHA RELÂMPAGO 2 SACHES + FRASCO INICIO 12H e ENCERRA 23h59",
-        "CAMPANHA PROGRESSIVAS 300g e 500g + POTAO 100TIMETROS ENCERRA 23h59"
+        "Cont. Cápsulas Potão 149,90 a partir das 18hrs + progressiva 500g 149,90 + abertura campanha 2 saches + Frasco até 23;59hrs",
+        "CAMPANHA RELÂMPAGO 2 SACHES + FRASCO INICIO 18H",
+        "CAMPANHA PROGRESSIVAS 500g ENCERRA 23h59"
       ],
-      "canais": []
+      "canais": [
+        {
+          "nome": "Ybera.com",
+          "rlzPed": 110,
+          "rlzFat": 19964.74
+        },
+        {
+          "nome": "TikTok",
+          "rlzPed": 16,
+          "rlzFat": 2558.91
+        },
+        {
+          "nome": "Mktplace",
+          "rlzPed": 118,
+          "rlzFat": 19190.95
+        }
+      ]
     },
     {
       "data": "25/11",
@@ -1075,7 +1114,8 @@
       "rlzPed": null,
       "atg": null,
       "campanhas": [
-        "Cápsulas Potão"
+        "Abrir o kit prog 1kg + shampoo + mascara R$ 399,90",
+        "CAMPANHA RELÂMPAGO 2 SACHES + FRASCO ENCERRA 18H"
       ],
       "canais": []
     },
@@ -1147,7 +1187,7 @@
         "Continuação produtos da Live",
         "AS OFERTA DA LIVE (lançamentos) encerram 23h59",
         "FIM DA 3º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59",
-        "FIM DA PROGRESSIVA FG 1KG 23H59(YBERA PRO)"
+        "POTAO 100TIMETROS ENCERRA 23:59"
       ],
       "canais": []
     }
@@ -1162,12 +1202,19 @@
       "atgMedio": 166.15
     },
     {
-      "nome": "TikTok 11.11 + Cupom (Prog 500 | Prog 150 + Mirra | Cronos)",
+      "nome": "Campanha TikTok 11.11 + Cupom",
       "dias": [
         "01/11",
-        "04/11"
+        "02/11",
+        "03/11",
+        "04/11",
+        "05/11",
+        "06/11",
+        "07/11",
+        "08/11",
+        "09/11"
       ],
-      "atgMedio": 154.8
+      "atgMedio": 139.17
     },
     {
       "nome": "38476.06",
@@ -1196,13 +1243,6 @@
         "01/11"
       ],
       "atgMedio": 175.8
-    },
-    {
-      "nome": "TikTok 11.11 + Cupom (Prog 1KG | Prog 150 + Mirra | S. Vello)",
-      "dias": [
-        "02/11"
-      ],
-      "atgMedio": 156.5
     },
     {
       "nome": "20868.22",
@@ -1234,13 +1274,6 @@
       "atgMedio": 114.3
     },
     {
-      "nome": "TikTok 11.11 + Cupom (Prog 1KG | Prog 150 + Mirra | Cronos)",
-      "dias": [
-        "03/11"
-      ],
-      "atgMedio": 94.8
-    },
-    {
       "nome": "31121.22",
       "dias": [
         "03/11"
@@ -1260,16 +1293,6 @@
         "05/11"
       ],
       "atgMedio": 79.6
-    },
-    {
-      "nome": "Campanha TikTok 11.11 + Cupom",
-      "dias": [
-        "05/11",
-        "06/11",
-        "07/11",
-        "08/11"
-      ],
-      "atgMedio": 150.1
     },
     {
       "nome": "32910.89",
@@ -1350,13 +1373,6 @@
       "atgMedio": 91.2
     },
     {
-      "nome": "Pré Spike 11.11",
-      "dias": [
-        "09/11"
-      ],
-      "atgMedio": 91.2
-    },
-    {
       "nome": "27562.08",
       "dias": [
         "09/11"
@@ -1399,7 +1415,7 @@
       "atgMedio": 88.4
     },
     {
-      "nome": "Spike Day 11.11",
+      "nome": "Pré Spike 11.11",
       "dias": [
         "10/11"
       ],
@@ -1427,7 +1443,7 @@
       "atgMedio": 121.0
     },
     {
-      "nome": "Pós Spike 11.11",
+      "nome": "Spike Day 11.11",
       "dias": [
         "11/11"
       ],
@@ -1470,6 +1486,21 @@
         "19/11"
       ],
       "atgMedio": 63.67
+    },
+    {
+      "nome": "Ciclos de ofertas",
+      "dias": [
+        "12/11",
+        "13/11",
+        "14/11",
+        "15/11",
+        "17/11",
+        "18/11",
+        "19/11",
+        "21/11",
+        "22/11"
+      ],
+      "atgMedio": 81.71
     },
     {
       "nome": "28160.45",
@@ -1528,6 +1559,14 @@
       "atgMedio": 63.7
     },
     {
+      "nome": "Incentivo maior via cupom",
+      "dias": [
+        "16/11",
+        "20/11"
+      ],
+      "atgMedio": 77.15
+    },
+    {
       "nome": "26973.32",
       "dias": [
         "16/11"
@@ -1554,7 +1593,7 @@
         "17/11",
         "18/11"
       ],
-      "atgMedio": 114.65
+      "atgMedio": 114.6
     },
     {
       "nome": "44879.88",
@@ -1575,14 +1614,14 @@
       "dias": [
         "18/11"
       ],
-      "atgMedio": 133.2
+      "atgMedio": 133.1
     },
     {
       "nome": "CAMPANHA RELÂMPAGO DE OFERTAS ENCERRA 18H",
       "dias": [
         "18/11"
       ],
-      "atgMedio": 133.2
+      "atgMedio": 133.1
     },
     {
       "nome": "62169.58",
@@ -1632,56 +1671,89 @@
         "21/11",
         "22/11"
       ],
-      "atgMedio": 83.7
+      "atgMedio": 83.4
     },
     {
       "nome": "15423.98",
       "dias": [
         "21/11"
       ],
-      "atgMedio": 79.4
+      "atgMedio": 79.1
     },
     {
       "nome": "13891.45",
       "dias": [
         "22/11"
       ],
-      "atgMedio": 88.0
+      "atgMedio": 87.7
     },
     {
-      "nome": "Cápsulas Potão",
+      "nome": "Cápsulas Potão 149,90 a partir das 18hrs + progressiva 500g 149,90",
       "dias": [
-        "23/11",
-        "24/11",
-        "25/11"
+        "23/11"
       ],
-      "atgMedio": 1.2
+      "atgMedio": 95.5
+    },
+    {
+      "nome": "21238.02",
+      "dias": [
+        "23/11"
+      ],
+      "atgMedio": 95.5
     },
     {
       "nome": "VOLTAM AO MEIO DIA, TODAS AS OFERTAS DO PRO QUE TIVEMOS NO MÊS (YBERA PRO)",
       "dias": [
         "23/11"
       ],
-      "atgMedio": 1.2
+      "atgMedio": 95.5
     },
     {
-      "nome": "CAMPANHA PROGRESSIVAS 300g e 500g + POTAO 100TIMETROS INICIA 18h",
+      "nome": "CAMPANHA PROGRESSIVAS 500g + POTAO 100TIMETROS INICIA 18h",
       "dias": [
         "23/11"
       ],
-      "atgMedio": 1.2
+      "atgMedio": 95.5
     },
     {
-      "nome": "CAMPANHA RELÂMPAGO 2 SACHES + FRASCO INICIO 12H e ENCERRA 23h59",
+      "nome": "POTAO 100TIMETROS INICIA 18h",
+      "dias": [
+        "23/11"
+      ],
+      "atgMedio": 95.5
+    },
+    {
+      "nome": "Cont. Cápsulas Potão 149,90 a partir das 18hrs + progressiva 500g 149,90 + abertura campanha 2 saches + Frasco até 23;59hrs",
       "dias": [
         "24/11"
+      ],
+      "atgMedio": 1.7
+    },
+    {
+      "nome": "CAMPANHA RELÂMPAGO 2 SACHES + FRASCO INICIO 18H",
+      "dias": [
+        "24/11"
+      ],
+      "atgMedio": 1.7
+    },
+    {
+      "nome": "CAMPANHA PROGRESSIVAS 500g ENCERRA 23h59",
+      "dias": [
+        "24/11"
+      ],
+      "atgMedio": 1.7
+    },
+    {
+      "nome": "Abrir o kit prog 1kg + shampoo + mascara R$ 399,90",
+      "dias": [
+        "25/11"
       ],
       "atgMedio": null
     },
     {
-      "nome": "CAMPANHA PROGRESSIVAS 300g e 500g + POTAO 100TIMETROS ENCERRA 23h59",
+      "nome": "CAMPANHA RELÂMPAGO 2 SACHES + FRASCO ENCERRA 18H",
       "dias": [
-        "24/11"
+        "25/11"
       ],
       "atgMedio": null
     },
@@ -1733,7 +1805,7 @@
       "atgMedio": null
     },
     {
-      "nome": "FIM DA PROGRESSIVA FG 1KG 23H59(YBERA PRO)",
+      "nome": "POTAO 100TIMETROS ENCERRA 23:59",
       "dias": [
         "30/11"
       ],
@@ -1743,8 +1815,8 @@
   "totais": {
     "metaFat": 65249302.23,
     "metaPed": 322566,
-    "rlzFat": 44553320.45,
-    "rlzPed": 199638,
-    "atg": 61.9
+    "rlzFat": 45353944.86,
+    "rlzPed": 204161,
+    "atg": 63.3
   }
 }
