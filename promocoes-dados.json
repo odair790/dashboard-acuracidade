@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-24T07:45:06-03:00",
+  "geradoEm": "2026-11-24T12:15:06-03:00",
   "fonte": "Planilha Google 'Diarização 2026' · aba Novembro",
   "mes": "Novembro 2026",
   "dias": [
@@ -913,8 +913,7 @@
         "Live abertura 12hrs",
         "Incentivo maior via cupom",
         "58928.44",
-        "LIVE 09H show + shop",
-        "INICIO 3º CAMPANHA DE OPORTUNIDADE INICIO 12H"
+        "LIVE 09H show + shop"
       ],
       "canais": [
         {
@@ -1043,8 +1042,8 @@
         "Cápsulas Potão 149,90 a partir das 18hrs + progressiva 500g 149,90",
         "21238.02",
         "VOLTAM AO MEIO DIA, TODAS AS OFERTAS DO PRO QUE TIVEMOS NO MÊS (YBERA PRO)",
-        "CAMPANHA PROGRESSIVAS 500g + POTAO 100TIMETROS INICIA 18h",
-        "POTAO 100TIMETROS INICIA 18h"
+        "CAMPANHA PROGRESSIVAS 500g INICIA 18h",
+        "INICIO 3º CAMPANHA DE OPORTUNIDADE - POTAO 100TIMETROS INICIO 18H"
       ],
       "canais": [
         {
@@ -1085,7 +1084,8 @@
       "campanhas": [
         "Cont. Cápsulas Potão 149,90 a partir das 18hrs + progressiva 500g 149,90 + abertura campanha 2 saches + Frasco até 23;59hrs",
         "CAMPANHA RELÂMPAGO 2 SACHES + FRASCO INICIO 18H",
-        "CAMPANHA PROGRESSIVAS 500g ENCERRA 23h59"
+        "CAMPANHA PROGRESSIVAS 500g ENCERRA 23h59",
+        "cupom shopee 25% OFF"
       ],
       "canais": [
         {
@@ -1186,8 +1186,7 @@
       "campanhas": [
         "Continuação produtos da Live",
         "AS OFERTA DA LIVE (lançamentos) encerram 23h59",
-        "FIM DA 3º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59",
-        "POTAO 100TIMETROS ENCERRA 23:59"
+        "FIM DA 3º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59"
       ],
       "canais": []
     }
@@ -1659,13 +1658,6 @@
       "atgMedio": 91.4
     },
     {
-      "nome": "INICIO 3º CAMPANHA DE OPORTUNIDADE INICIO 12H",
-      "dias": [
-        "20/11"
-      ],
-      "atgMedio": 91.4
-    },
-    {
       "nome": "Continuação das ofertas da live + Cápsulas Potão",
       "dias": [
         "21/11",
@@ -1709,14 +1701,14 @@
       "atgMedio": 95.5
     },
     {
-      "nome": "CAMPANHA PROGRESSIVAS 500g + POTAO 100TIMETROS INICIA 18h",
+      "nome": "CAMPANHA PROGRESSIVAS 500g INICIA 18h",
       "dias": [
         "23/11"
       ],
       "atgMedio": 95.5
     },
     {
-      "nome": "POTAO 100TIMETROS INICIA 18h",
+      "nome": "INICIO 3º CAMPANHA DE OPORTUNIDADE - POTAO 100TIMETROS INICIO 18H",
       "dias": [
         "23/11"
       ],
@@ -1738,6 +1730,13 @@
     },
     {
       "nome": "CAMPANHA PROGRESSIVAS 500g ENCERRA 23h59",
+      "dias": [
+        "24/11"
+      ],
+      "atgMedio": 1.7
+    },
+    {
+      "nome": "cupom shopee 25% OFF",
       "dias": [
         "24/11"
       ],
@@ -1799,13 +1798,6 @@
     },
     {
       "nome": "FIM DA 3º CAMPANHA DE OPORTUNIDADE ENCERRA 23h59",
-      "dias": [
-        "30/11"
-      ],
-      "atgMedio": null
-    },
-    {
-      "nome": "POTAO 100TIMETROS ENCERRA 23:59",
       "dias": [
         "30/11"
       ],
