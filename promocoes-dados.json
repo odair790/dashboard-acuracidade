@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-25T07:45:05-03:00",
+  "geradoEm": "2026-11-25T12:15:11-03:00",
   "fonte": "Planilha Google 'Diarização 2026' · aba Novembro",
   "mes": "Novembro 2026",
   "dias": [
@@ -1144,7 +1144,8 @@
         "Abrir o kit prog 1kg + shampoo + mascara R$ 399,90",
         "Black TikTok + Ciclo",
         "640.0",
-        "CAMPANHA RELÂMPAGO 2 SACHES + FRASCO ENCERRA 18H"
+        "CAMPANHA RELÂMPAGO 2 SACHES + FRASCO ENCERRA 18H",
+        "CAMPANHA RETORNO DAS PROGRESSIVAS INICIO 18H"
       ],
       "canais": [
         {
@@ -1835,6 +1836,13 @@
     },
     {
       "nome": "CAMPANHA RELÂMPAGO 2 SACHES + FRASCO ENCERRA 18H",
+      "dias": [
+        "25/11"
+      ],
+      "atgMedio": 6.2
+    },
+    {
+      "nome": "CAMPANHA RETORNO DAS PROGRESSIVAS INICIO 18H",
       "dias": [
         "25/11"
       ],
